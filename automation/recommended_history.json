@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "sent_papers": [
+    {
+      "id": "doi:10.1103/57ck-wr34",
+      "title": "Nonmagnetic-magnetic transitions in rutile ${\\mathrm{RuO}}_{2}$",
+      "doi": "10.1103/57ck-wr34",
+      "venue": "Physical Review B",
+      "published": "2026-10-13",
+      "brief_date": "2026-10-13",
+      "sent_at": "2026-10-13T17:45:36+00:00"
+    },
+    {
+      "id": "doi:10.1103/zl26-y46s",
+      "title": "Nonlinear magnon magnetic moment transport in triangular-lattice $f$-wave anti-altermagnets",
+      "doi": "10.1103/zl26-y46s",
+      "venue": "Physical Review B",
+      "published": "2026-10-13",
+      "brief_date": "2026-10-13",
+      "sent_at": "2026-10-13T17:45:36+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41586-026-11257-1",
+      "title": "Atomic-scale spin sensing of a 2D d-wave altermagnet via helical tunneling",
+      "doi": "10.1038/s41586-026-11257-1",
+      "venue": "Nature",
+      "published": "2026-10-13",
+      "brief_date": "2026-10-13",
+      "sent_at": "2026-10-13T17:45:36+00:00"
+    }
+  ]
+}
