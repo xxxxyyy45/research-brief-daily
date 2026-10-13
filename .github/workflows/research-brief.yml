@@ -2,13 +2,8 @@
 
 on:
   schedule:
-    # The user wants the brief in the mailbox at 08:00 Asia/Shanghai, every day.
-    # GitHub cron has no timezone field and always interprets UTC: 08:00 CST = 00:00 UTC,
-    # and China has kept UTC+8 all year, so `0 0 * * *` is the 08:00 delivery slot.
-    # GitHub only promises "within a few minutes of the hour", and a second scheduler
-    # (local 08:00 automation) may hit the same day, so the job itself is idempotent:
-    # see automation/mail_ledger.json.
-    - cron: "0 0 * * *"
+    # The clock job selects 08:00 Europe/Rome across summer/winter time.
+    - cron: "0 6,7 * * *"
   workflow_dispatch:
     inputs:
       days_back:
@@ -51,7 +46,24 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  delivery-time:
+    runs-on: ubuntu-latest
+    outputs:
+      due: ${{ steps.clock.outputs.due }}
+    steps:
+      - id: clock
+        run: |
+          python - <<'PY'
+          import datetime as dt, os
+          from zoneinfo import ZoneInfo
+          due = dt.datetime.now(ZoneInfo('Europe/Rome')).hour == 8
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write(f"due={str(due).lower()}\n")
+          PY
+
   generate-brief:
+    needs: delivery-time
+    if: github.event_name == 'workflow_dispatch' || needs.delivery-time.outputs.due == 'true'
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -76,19 +88,42 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y fonts-noto-cjk fonts-noto-cjk-extra || sudo apt-get install -y fonts-wqy-zenhei
 
+      - name: Restore private research and email settings
+        env:
+          PRIVATE_CONFIG: ${{ secrets.RESEARCH_BRIEF_CONFIG_JSON }}
+        run: |
+          python - <<'PY'
+          import json, os
+          from pathlib import Path
+          raw = os.environ.get('PRIVATE_CONFIG', '')
+          if not raw:
+              raise SystemExit('Missing RESEARCH_BRIEF_CONFIG_JSON')
+          config = json.loads(Path('automation/research_brief_config.example.json').read_text(encoding='utf-8-sig'))
+          def merge(target, patch):
+              for key, value in patch.items():
+                  if isinstance(value, dict) and isinstance(target.get(key), dict):
+                      merge(target[key], value)
+                  else:
+                      target[key] = value
+          merge(config, json.loads(raw))
+          Path('automation/research_brief_config.json').write_text(json.dumps(config, ensure_ascii=False), encoding='utf-8')
+          email = config['recipient_email']
+          print('::add-mask::' + email)
+          with open(os.environ['GITHUB_ENV'], 'a') as f:
+              for key in ['SMTP_USERNAME','SMTP_FROM_EMAIL','SMTP_TO_EMAIL','RESEARCH_BRIEF_CONTACT_EMAIL']:
+                  f.write(f'{key}={email}\n')
+          PY
+
       - name: Generate research brief
         env:
           SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
           RESEARCH_BRIEF_FROM_EMAIL: ${{ secrets.RESEARCH_BRIEF_FROM_EMAIL }}
           RESEARCH_BRIEF_TO_EMAIL: ${{ secrets.RESEARCH_BRIEF_TO_EMAIL }}
-          SMTP_HOST: ${{ secrets.SMTP_HOST }}
-          SMTP_PORT: ${{ secrets.SMTP_PORT }}
-          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
-          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-          SMTP_FROM_EMAIL: ${{ secrets.SMTP_FROM_EMAIL }}
-          SMTP_TO_EMAIL: ${{ secrets.SMTP_TO_EMAIL }}
-          SMTP_USE_SSL: ${{ secrets.SMTP_USE_SSL }}
-          SMTP_STARTTLS: ${{ secrets.SMTP_STARTTLS }}
+          SMTP_HOST: smtp.qq.com
+          SMTP_PORT: "465"
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD || secrets.XIE }}
+          SMTP_USE_SSL: "true"
+          SMTP_STARTTLS: "false"
           SMTP_RETRIES: ${{ secrets.SMTP_RETRIES }}
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           DEEPSEEK_MODEL: ${{ secrets.DEEPSEEK_MODEL }}
@@ -133,38 +168,15 @@ jobs:
           if-no-files-found: ignore
           retention-days: 30
 
-      - name: Commit recommendation history, mail ledger and weekly archive
+      - name: Persist delivery ledger
         if: ${{ github.event.inputs.send_email != 'false' }}
         run: |
-          # automation/mail_ledger.json has to travel with the code: it is the record the
-          # next run reads to decide whether today's mail already went out.
-          CHANGED=0
-          for path in automation/recommended_history.json reference_push_archive automation/mail_ledger.json; do
-            if ! git diff --quiet -- "$path"; then CHANGED=1; fi
-          done
-          if [ "$CHANGED" = "0" ]; then
-            echo "No recommendation history, mail ledger or archive changes"
-            exit 0
-          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add automation/recommended_history.json reference_push_archive automation/mail_ledger.json
-          git commit -m "Update recommended paper history, mail ledger and archive"
-          # A bare `git push` fails the whole job whenever anything else lands on
-          # main while this run is in flight - a hand edit of the config in the web
-          # UI, or a file pushed from a local machine. The run has already mailed
-          # by this point, so a rejected push loses the ledger that stops the next
-          # run from re-sending the same day, and marks a successful mail as a
-          # failed build. Rebase onto the remote tip instead, and if the ledger
-          # itself conflicts, keep the remote copy and say so rather than forcing
-          # it: the mail is already sent, so a clobbered history is recoverable
-          # and a silently broken run is not.
-          # The local PDF-fetch bridge writes the poster PDFs + manifest into the
-          # working tree as untracked files (so the mail can attach them). By now the
-          # mail is already sent, and origin/main carries those same paths as tracked
-          # files (the local machine pushed them), so a plain rebase checkout would
-          # abort on the untracked-vs-tracked clash. Drop the generated artifacts
-          # first; they are not part of the committed ledger and are safe to remove.
-          git clean -fd research_briefs/attachments 2>/dev/null || true
+          for path in automation/recommended_history.json automation/mail_ledger.json; do
+            if [ -f "$path" ]; then git add -f "$path"; fi
+          done
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Update daily delivery ledger"
           git pull --rebase --autostash origin main
           git push origin HEAD:main
