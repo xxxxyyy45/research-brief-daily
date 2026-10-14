@@ -2,8 +2,8 @@
 
 on:
   schedule:
-    # The clock job selects 08:00 Europe/Rome across summer/winter time.
-    - cron: "0 6,7 * * *"
+    # Start at 08:00 Rome; retry later if a schedule event is missed.
+    - cron: "0,17,37,57 6-20 * * *"
   workflow_dispatch:
     inputs:
       days_back:
@@ -51,12 +51,19 @@ jobs:
     outputs:
       due: ${{ steps.clock.outputs.due }}
     steps:
+      - uses: actions/checkout@v4
       - id: clock
         run: |
           python - <<'PY'
-          import datetime as dt, os
+          import datetime as dt, os, json
+          from pathlib import Path
           from zoneinfo import ZoneInfo
-          due = dt.datetime.now(ZoneInfo('Europe/Rome')).hour == 8
+          now = dt.datetime.now(ZoneInfo('Europe/Rome'))
+          ledger_path = Path('automation/mail_ledger.json')
+          ledger = json.loads(ledger_path.read_text(encoding='utf-8-sig')) if ledger_path.exists() else {'sent': []}
+          sent = any(item.get('date') == now.date().isoformat() and item.get('kind') == 'daily' for item in ledger.get('sent', []))
+          due = 8 <= now.hour < 23 and not sent
+          print('Already sent today; skipping' if sent else 'Checking delivery window')
           with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
               f.write(f"due={str(due).lower()}\n")
           PY
