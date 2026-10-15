@@ -153,6 +153,150 @@
       "published": "2026-10-12",
       "brief_date": "2026-10-14",
       "sent_at": "2026-10-14T09:00:53+00:00"
+    },
+    {
+      "id": "doi:10.1103/xn7y-df6x",
+      "title": "Multicarrier electrical and thermal magnetotransport in altermagnetic CrSb",
+      "doi": "10.1103/xn7y-df6x",
+      "venue": "Physical Review Materials",
+      "published": "2026-10-13",
+      "brief_date": "2026-10-15",
+      "sent_at": "2026-10-15T10:54:51+00:00"
+    },
+    {
+      "id": "doi:10.1103/ryxh-flnl",
+      "title": "Symmetry-enforced ferroelectric switching of two-dimensional altermagnetism",
+      "doi": "10.1103/ryxh-flnl",
+      "venue": "Physical Review B",
+      "published": "2026-10-14",
+      "brief_date": "2026-10-15",
+      "sent_at": "2026-10-15T10:54:51+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41467-026-78163-y",
+      "title": "Signatures of bi-altermagnetism revealed by sublattice-specific circular dichroism in resonant inelastic X-ray scattering",
+      "doi": "10.1038/s41467-026-78163-y",
+      "venue": "Nature Communications",
+      "published": "2026-10-14",
+      "brief_date": "2026-10-15",
+      "sent_at": "2026-10-15T10:54:51+00:00"
+    },
+    {
+      "id": "title:influenceofthenelvectoronthebulkelectronicstructureofmntemeasuredfromthe1bar100surface",
+      "title": "Influence of the Néel vector on the bulk electronic structure of MnTe measured from the $(1 \\bar1 00)$ surface",
+      "doi": "",
+      "venue": "arXiv",
+      "published": "2026-10-14",
+      "brief_date": "2026-10-15",
+      "sent_at": "2026-10-15T10:54:51+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41565-026-02293-z",
+      "title": "Sliding ferroelectricity scales up",
+      "doi": "10.1038/s41565-026-02293-z",
+      "venue": "Nature Nanotechnology",
+      "published": "2026-10-14",
+      "brief_date": "2026-10-15",
+      "sent_at": "2026-10-15T10:54:51+00:00"
+    },
+    {
+      "id": "doi:10.1103/fpsj-5g81",
+      "title": "Electron polaron at neutral ${180}^{∘}$ domain wall in ${\\mathrm{PbTiO}}_{3}$: Stability, trapping energies, and transverse polarization",
+      "doi": "10.1103/fpsj-5g81",
+      "venue": "Physical Review Materials",
+      "published": "2026-10-13",
+      "brief_date": "2026-10-15",
+      "sent_at": "2026-10-15T10:54:51+00:00"
+    },
+    {
+      "id": "doi:10.1103/jbjp-kjwx",
+      "title": "Spin 1/2-3/2 crossover in a chain antiferromagnet ${\\mathrm{Cs}}_{2}{\\mathrm{CoCl}}_{4}$",
+      "doi": "10.1103/jbjp-kjwx",
+      "venue": "Physical Review Materials",
+      "published": "2026-10-13",
+      "brief_date": "2026-10-15",
+      "sent_at": "2026-10-15T10:54:51+00:00"
+    },
+    {
+      "id": "doi:10.1103/qbm7-4gh3",
+      "title": "Hidden magnetic complexity in the simple van der Waals ferromagnet ${\\mathrm{Ce}}_{2}{\\mathrm{Te}}_{5}$",
+      "doi": "10.1103/qbm7-4gh3",
+      "venue": "Physical Review Materials",
+      "published": "2026-10-13",
+      "brief_date": "2026-10-15",
+      "sent_at": "2026-10-15T10:54:51+00:00"
+    },
+    {
+      "id": "doi:10.1103/ddgx-ydyb",
+      "title": "Anisotropic exchange in the spin-orbit entangled ${J}_{\\text{eff}}=1/2$ triangular-lattice antiferromagnet ${\\mathrm{K}}_{2}\\mathrm{CsYb}{({\\mathrm{PO}}_{4})}_{2}$",
+      "doi": "10.1103/ddgx-ydyb",
+      "venue": "Physical Review Materials",
+      "published": "2026-10-13",
+      "brief_date": "2026-10-15",
+      "sent_at": "2026-10-15T10:54:51+00:00"
+    },
+    {
+      "id": "doi:10.1103/rd96-x9nd",
+      "title": "Spin-wave band-gap engineering via mode hybridization in yttrium iron garnet film--Co-Fe-B nanodisk magnonic crystals with dipolar coupling",
+      "doi": "10.1103/rd96-x9nd",
+      "venue": "Physical Review Applied",
+      "published": "2026-10-14",
+      "brief_date": "2026-10-15",
+      "sent_at": "2026-10-15T10:54:51+00:00"
+    },
+    {
+      "id": "doi:10.1103/q376-cq1p",
+      "title": "Field-driven triggering of self-induced Floquet magnons in a magnetic vortex",
+      "doi": "10.1103/q376-cq1p",
+      "venue": "Physical Review Applied",
+      "published": "2026-10-14",
+      "brief_date": "2026-10-15",
+      "sent_at": "2026-10-15T10:54:51+00:00"
+    },
+    {
+      "id": "doi:10.1103/92jc-nlz8",
+      "title": "Heisenberg-limited metrology from the quantum-quench dynamics of an anisotropic ferromagnet",
+      "doi": "10.1103/92jc-nlz8",
+      "venue": "Physical Review Research",
+      "published": "2026-10-14",
+      "brief_date": "2026-10-15",
+      "sent_at": "2026-10-15T10:54:51+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41467-026-78521-w",
+      "title": "Observation of dark magnons in a van der Waals antiferromagnet/ferromagnet interface",
+      "doi": "10.1038/s41467-026-78521-w",
+      "venue": "Nature Communications",
+      "published": "2026-10-14",
+      "brief_date": "2026-10-15",
+      "sent_at": "2026-10-15T10:54:51+00:00"
+    },
+    {
+      "id": "doi:10.1021/acs.nanolett.6c04005",
+      "title": "Twist-Induced Out-of-Plane Ferroelectricity in Bilayer Hafnia",
+      "doi": "10.1021/acs.nanolett.6c04005",
+      "venue": "Nano Letters",
+      "published": "2026-10-14",
+      "brief_date": "2026-10-15",
+      "sent_at": "2026-10-15T10:54:51+00:00"
+    },
+    {
+      "id": "doi:10.1021/acsnano.6c08428",
+      "title": "Unified Single-Transistor Cell for Multimode Reconfigurable Logic and Ternary In-Memory Search",
+      "doi": "10.1021/acsnano.6c08428",
+      "venue": "ACS Nano",
+      "published": "2026-10-14",
+      "brief_date": "2026-10-15",
+      "sent_at": "2026-10-15T10:54:51+00:00"
+    },
+    {
+      "id": "doi:10.1002/adma.75369",
+      "title": "Nonreciprocal Bending in Ferroelectric Membranes Driven by Flexoelectricity",
+      "doi": "10.1002/adma.75369",
+      "venue": "Advanced Materials",
+      "published": "2026-10-14",
+      "brief_date": "2026-10-15",
+      "sent_at": "2026-10-15T10:54:51+00:00"
     }
   ]
 }
