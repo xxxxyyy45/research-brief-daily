@@ -297,6 +297,87 @@
       "published": "2026-10-14",
       "brief_date": "2026-10-15",
       "sent_at": "2026-10-15T10:54:51+00:00"
+    },
+    {
+      "id": "doi:10.1103/kz4s-11k6",
+      "title": "d-wave altermagnetism and nonlinear transport in Dirac semimetals",
+      "doi": "10.1103/kz4s-11k6",
+      "venue": "Physical Review B",
+      "published": "2026-10-15",
+      "brief_date": "2026-10-16",
+      "sent_at": "2026-10-16T10:44:10+00:00"
+    },
+    {
+      "id": "title:coexistenceofaltermagneticandcompensatedferrimagneticmotifsinanoncollinearmultiferroic",
+      "title": "Coexistence of Altermagnetic and Compensated Ferrimagnetic Motifs in a Noncollinear Multiferroic",
+      "doi": "",
+      "venue": "arXiv",
+      "published": "2026-10-15",
+      "brief_date": "2026-10-16",
+      "sent_at": "2026-10-16T10:44:10+00:00"
+    },
+    {
+      "id": "doi:10.1103/dfcj-rb7w",
+      "title": "Oxygen deficiency and valency reconstruction in multiferroic V-doped ${\\mathrm{HfO}}_{2}$",
+      "doi": "10.1103/dfcj-rb7w",
+      "venue": "Physical Review Materials",
+      "published": "2026-10-15",
+      "brief_date": "2026-10-16",
+      "sent_at": "2026-10-16T10:44:10+00:00"
+    },
+    {
+      "id": "doi:10.1103/447j-y4rq",
+      "title": "Ferroelectric-controllable spin-orbit torque in two-dimensional multiferroic heterostructure",
+      "doi": "10.1103/447j-y4rq",
+      "venue": "Physical Review B",
+      "published": "2026-10-14",
+      "brief_date": "2026-10-16",
+      "sent_at": "2026-10-16T10:44:10+00:00"
+    },
+    {
+      "id": "doi:10.1103/ckf6-gwfq",
+      "title": "Spin-caloritronic signatures of soft magnons in bilayer CrSBr",
+      "doi": "10.1103/ckf6-gwfq",
+      "venue": "Physical Review B",
+      "published": "2026-10-15",
+      "brief_date": "2026-10-16",
+      "sent_at": "2026-10-16T10:44:10+00:00"
+    },
+    {
+      "id": "doi:10.1103/nfw7-1ft1",
+      "title": "Giant staggered Dzyaloshinskii-Moriya vectors emerged in synthetic antiferromagnets with spatially alternating stress",
+      "doi": "10.1103/nfw7-1ft1",
+      "venue": "Physical Review Applied",
+      "published": "2026-10-15",
+      "brief_date": "2026-10-16",
+      "sent_at": "2026-10-16T10:44:10+00:00"
+    },
+    {
+      "id": "doi:10.1103/kvqg-4jyl",
+      "title": "Optimal skyrmion stability in antisymmetric ultrathin ferromagnetic bilayers",
+      "doi": "10.1103/kvqg-4jyl",
+      "venue": "Physical Review B",
+      "published": "2026-10-14",
+      "brief_date": "2026-10-16",
+      "sent_at": "2026-10-16T10:44:10+00:00"
+    },
+    {
+      "id": "doi:10.1021/acs.nanolett.6c04207",
+      "title": "Polarization-Dependent Topological Phase Reconstruction via Multipolarization-Controlled Dzyaloshinskii–Moriya Interaction",
+      "doi": "10.1021/acs.nanolett.6c04207",
+      "venue": "Nano Letters",
+      "published": "2026-10-16",
+      "brief_date": "2026-10-16",
+      "sent_at": "2026-10-16T10:44:10+00:00"
+    },
+    {
+      "id": "doi:10.1103/nx3d-1mqf",
+      "title": "Optical Poling of a Quantum Ferroelectric Metal across the Order-Disorder Phase Transition",
+      "doi": "10.1103/nx3d-1mqf",
+      "venue": "Physical Review Letters",
+      "published": "2026-10-14",
+      "brief_date": "2026-10-16",
+      "sent_at": "2026-10-16T10:44:10+00:00"
     }
   ]
 }
