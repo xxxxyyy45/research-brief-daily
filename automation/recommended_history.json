@@ -378,6 +378,60 @@
       "published": "2026-10-14",
       "brief_date": "2026-10-16",
       "sent_at": "2026-10-16T10:44:10+00:00"
+    },
+    {
+      "id": "doi:10.1103/8zh7-h5xd",
+      "title": "Supercurrent-driven Néel torque in superconductor/altermagnet hybrids",
+      "doi": "10.1103/8zh7-h5xd",
+      "venue": "Physical Review B",
+      "published": "2026-10-15",
+      "brief_date": "2026-10-17",
+      "sent_at": "2026-10-17T10:11:25+00:00"
+    },
+    {
+      "id": "doi:10.1103/xtc1-jh14",
+      "title": "Magnetic competition and exchange bias driven by cationic inhomogeneity in ${\\mathrm{Fe}}_{3−x}{\\mathrm{Cr}}_{x}{\\mathrm{Se}}_{4}$",
+      "doi": "10.1103/xtc1-jh14",
+      "venue": "Physical Review Materials",
+      "published": "2026-10-16",
+      "brief_date": "2026-10-17",
+      "sent_at": "2026-10-17T10:11:25+00:00"
+    },
+    {
+      "id": "doi:10.1103/h2wj-1r5b",
+      "title": "Magnonic frequency-comb enhancement via a pseudo-exceptional point in a driven magnon-polariton system",
+      "doi": "10.1103/h2wj-1r5b",
+      "venue": "Physical Review Applied",
+      "published": "2026-10-16",
+      "brief_date": "2026-10-17",
+      "sent_at": "2026-10-17T10:11:25+00:00"
+    },
+    {
+      "id": "doi:10.1103/fg74-7ssk",
+      "title": "Properties of the skyrmion crystal in the Heisenberg triangular lattice with scalar chirality",
+      "doi": "10.1103/fg74-7ssk",
+      "venue": "Physical Review B",
+      "published": "2026-10-15",
+      "brief_date": "2026-10-17",
+      "sent_at": "2026-10-17T10:11:25+00:00"
+    },
+    {
+      "id": "doi:10.1103/pbqf-6p27",
+      "title": "On-demand phase-field modeling: Three-dimensional neural-network Landau energy for ${\\mathrm{HfO}}_{2}$",
+      "doi": "10.1103/pbqf-6p27",
+      "venue": "Physical Review B",
+      "published": "2026-10-16",
+      "brief_date": "2026-10-17",
+      "sent_at": "2026-10-17T10:11:25+00:00"
+    },
+    {
+      "id": "doi:10.1126/sciadv.aei1336",
+      "title": "Realignment of ferroelectric nematic by photoinduced electric field",
+      "doi": "10.1126/sciadv.aei1336",
+      "venue": "Science Advances",
+      "published": "2026-10-16",
+      "brief_date": "2026-10-17",
+      "sent_at": "2026-10-17T10:11:25+00:00"
     }
   ]
 }
