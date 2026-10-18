@@ -432,6 +432,33 @@
       "published": "2026-10-16",
       "brief_date": "2026-10-17",
       "sent_at": "2026-10-17T10:11:25+00:00"
+    },
+    {
+      "id": "doi:10.1103/q1cs-j5py",
+      "title": "Odd-parity magnons in the Haldane-Hubbard model from topological exciton condensation",
+      "doi": "10.1103/q1cs-j5py",
+      "venue": "Physical Review Letters",
+      "published": "2026-10-16",
+      "brief_date": "2026-10-18",
+      "sent_at": "2026-10-18T10:25:48+00:00"
+    },
+    {
+      "id": "doi:10.1103/w6cp-78mw",
+      "title": "Spin-locked helical currents and charge-neutral spin-channel pumping in altermagnetic nanotubes",
+      "doi": "10.1103/w6cp-78mw",
+      "venue": "Physical Review B",
+      "published": "2026-10-16",
+      "brief_date": "2026-10-18",
+      "sent_at": "2026-10-18T10:25:48+00:00"
+    },
+    {
+      "id": "doi:10.1002/admt.71413",
+      "title": "Multilevel Resistive Switching and Synaptic Functionality in an Energy Efficient Ferroelectricity Assisted Memristor Guided by Ionic Dielectric Barrier",
+      "doi": "10.1002/admt.71413",
+      "venue": "Advanced Materials Technologies",
+      "published": "2026-10-17",
+      "brief_date": "2026-10-18",
+      "sent_at": "2026-10-18T10:25:48+00:00"
     }
   ]
 }

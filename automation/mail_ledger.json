@@ -29,6 +29,18 @@
       "kind": "daily",
       "provider": "SMTP",
       "at_utc": "2026-10-17T10:11:25+00:00"
+    },
+    {
+      "date": "2026-10-18",
+      "kind": "weekly",
+      "provider": "SMTP",
+      "at_utc": "2026-10-18T10:25:41+00:00"
+    },
+    {
+      "date": "2026-10-18",
+      "kind": "daily",
+      "provider": "SMTP",
+      "at_utc": "2026-10-18T10:25:48+00:00"
     }
   ]
 }
