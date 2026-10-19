@@ -459,6 +459,42 @@
       "published": "2026-10-17",
       "brief_date": "2026-10-18",
       "sent_at": "2026-10-18T10:25:48+00:00"
+    },
+    {
+      "id": "doi:10.1002/adma.75367",
+      "title": "Robust Spin Splitting and Fermiology in the Layered Altermagnet CoNb4Se8",
+      "doi": "10.1002/adma.75367",
+      "venue": "Advanced Materials",
+      "published": "2026-10-18",
+      "brief_date": "2026-10-19",
+      "sent_at": "2026-10-19T12:13:00+00:00"
+    },
+    {
+      "id": "doi:10.1021/acsnano.6c14517",
+      "title": "Ferroelectric Switching of Skyrmion Topology in 2D Multiferroics",
+      "doi": "10.1021/acsnano.6c14517",
+      "venue": "ACS Nano",
+      "published": "2026-10-19",
+      "brief_date": "2026-10-19",
+      "sent_at": "2026-10-19T12:13:00+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41567-026-03379-0",
+      "title": "A liquid-crystal analogue of the skyrmion Hall effect",
+      "doi": "10.1038/s41567-026-03379-0",
+      "venue": "Nature Physics",
+      "published": "2026-10-19",
+      "brief_date": "2026-10-19",
+      "sent_at": "2026-10-19T12:13:00+00:00"
+    },
+    {
+      "id": "doi:10.1002/adma.75389",
+      "title": "Chiral Phonon–Driven Ultrafast Spin Currents in a Non‐Magnetic Ferroelectric",
+      "doi": "10.1002/adma.75389",
+      "venue": "Advanced Materials",
+      "published": "2026-10-18",
+      "brief_date": "2026-10-19",
+      "sent_at": "2026-10-19T12:13:00+00:00"
     }
   ]
 }
