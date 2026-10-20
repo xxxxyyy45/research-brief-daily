@@ -495,6 +495,105 @@
       "published": "2026-10-18",
       "brief_date": "2026-10-19",
       "sent_at": "2026-10-19T12:13:00+00:00"
+    },
+    {
+      "id": "doi:10.1103/1vc6-c7rs",
+      "title": "High-harmonic spin-current signatures of altermagnetic spin-group symmetry",
+      "doi": "10.1103/1vc6-c7rs",
+      "venue": "Physical Review B",
+      "published": "2026-10-19",
+      "brief_date": "2026-10-20",
+      "sent_at": "2026-10-20T11:00:47+00:00"
+    },
+    {
+      "id": "doi:10.1021/acs.nanolett.6c01819",
+      "title": "Termination-Dependent Surface Fermiology in the Intercalated Altermagnet CoNb4Se8",
+      "doi": "10.1021/acs.nanolett.6c01819",
+      "venue": "Nano Letters",
+      "published": "2026-10-19",
+      "brief_date": "2026-10-20",
+      "sent_at": "2026-10-20T11:00:47+00:00"
+    },
+    {
+      "id": "doi:10.1088/0256-307x/43/11/110709",
+      "title": "Circular phonon dichroism in <i>d</i> -wave altermagnets",
+      "doi": "10.1088/0256-307x/43/11/110709",
+      "venue": "Chinese Physics Letters",
+      "published": "2026-10-20",
+      "brief_date": "2026-10-20",
+      "sent_at": "2026-10-20T11:00:47+00:00"
+    },
+    {
+      "id": "doi:10.1088/0256-307x/43/11/110710",
+      "title": "Berry-Curvature Effect in Anomalous Transport",
+      "doi": "10.1088/0256-307x/43/11/110710",
+      "venue": "Chinese Physics Letters",
+      "published": "2026-10-20",
+      "brief_date": "2026-10-20",
+      "sent_at": "2026-10-20T11:00:47+00:00"
+    },
+    {
+      "id": "title:hiddenpiezohalleffect",
+      "title": "Hidden piezo-Hall effect",
+      "doi": "",
+      "venue": "arXiv",
+      "published": "2026-10-19",
+      "brief_date": "2026-10-20",
+      "sent_at": "2026-10-20T11:00:47+00:00"
+    },
+    {
+      "id": "doi:10.1088/0256-307x/43/11/110711",
+      "title": "Ionic corrugation makes sliding ferroelectric switching easier",
+      "doi": "10.1088/0256-307x/43/11/110711",
+      "venue": "Chinese Physics Letters",
+      "published": "2026-10-20",
+      "brief_date": "2026-10-20",
+      "sent_at": "2026-10-20T11:00:47+00:00"
+    },
+    {
+      "id": "doi:10.1103/1dxw-gbgb",
+      "title": "Intrinsic (non)-Gilbert damping in magnetic insulators calculated from a minimal model and ab initio spin Hamiltonians",
+      "doi": "10.1103/1dxw-gbgb",
+      "venue": "Physical Review B",
+      "published": "2026-10-19",
+      "brief_date": "2026-10-20",
+      "sent_at": "2026-10-20T11:00:47+00:00"
+    },
+    {
+      "id": "doi:10.1103/qr4c-8gnp",
+      "title": "Optical vortex generation by magnons with spin-orbit-coupled light",
+      "doi": "10.1103/qr4c-8gnp",
+      "venue": "Physical Review Research",
+      "published": "2026-10-19",
+      "brief_date": "2026-10-20",
+      "sent_at": "2026-10-20T11:00:47+00:00"
+    },
+    {
+      "id": "doi:10.1103/627p-l6zk",
+      "title": "Generic skyrmion phase diagram in ferrimagnetic films",
+      "doi": "10.1103/627p-l6zk",
+      "venue": "Physical Review B",
+      "published": "2026-10-19",
+      "brief_date": "2026-10-20",
+      "sent_at": "2026-10-20T11:00:47+00:00"
+    },
+    {
+      "id": "doi:10.1021/acsnano.6c10331",
+      "title": "Unfolding of Field-Free Spin–Orbit Torque Magnetization Switching in a van der Waals Heterostructure",
+      "doi": "10.1021/acsnano.6c10331",
+      "venue": "ACS Nano",
+      "published": "2026-10-19",
+      "brief_date": "2026-10-20",
+      "sent_at": "2026-10-20T11:00:47+00:00"
+    },
+    {
+      "id": "doi:10.1021/acsnano.6c13488",
+      "title": "Achieving Robust Ferroelectric Properties of Hf0.6Zr0.4O2 Thin Films through the Pseudofield-Inducing Effect of Al0.85Sc0.15N Bottom Electrode",
+      "doi": "10.1021/acsnano.6c13488",
+      "venue": "ACS Nano",
+      "published": "2026-10-20",
+      "brief_date": "2026-10-20",
+      "sent_at": "2026-10-20T11:00:47+00:00"
     }
   ]
 }
