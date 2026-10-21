@@ -594,6 +594,141 @@
       "published": "2026-10-20",
       "brief_date": "2026-10-20",
       "sent_at": "2026-10-20T11:00:47+00:00"
+    },
+    {
+      "id": "doi:10.1103/148w-67vq",
+      "title": "Néel-vector-dependent magneto-optical and spin Hall responses in altermagnetic CrSb",
+      "doi": "10.1103/148w-67vq",
+      "venue": "Physical Review B",
+      "published": "2026-10-20",
+      "brief_date": "2026-10-21",
+      "sent_at": "2026-10-21T11:12:36+00:00"
+    },
+    {
+      "id": "title:generalizedspingroupsandapplicationstomagnons",
+      "title": "Generalized Spin Groups and Applications to Magnons",
+      "doi": "",
+      "venue": "arXiv",
+      "published": "2026-10-20",
+      "brief_date": "2026-10-21",
+      "sent_at": "2026-10-21T11:12:36+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41567-026-03491-1",
+      "title": "Coherent phonon control beyond amplitude saturation in a sliding ferroelectric",
+      "doi": "10.1038/s41567-026-03491-1",
+      "venue": "Nature Physics",
+      "published": "2026-10-21",
+      "brief_date": "2026-10-21",
+      "sent_at": "2026-10-21T11:12:36+00:00"
+    },
+    {
+      "id": "doi:10.1021/acsnano.6c11972",
+      "title": "Sliding Ferroelectric Tunnel Junctions with Ultrahigh Tunneling Electroresistance",
+      "doi": "10.1021/acsnano.6c11972",
+      "venue": "ACS Nano",
+      "published": "2026-10-20",
+      "brief_date": "2026-10-21",
+      "sent_at": "2026-10-21T11:12:36+00:00"
+    },
+    {
+      "id": "doi:10.1088/0256-307x/43/12/120703",
+      "title": "Revisiting quadratic band crossing: from interaction-driven instability to intrinsic topology",
+      "doi": "10.1088/0256-307x/43/12/120703",
+      "venue": "Chinese Physics Letters",
+      "published": "2026-10-20",
+      "brief_date": "2026-10-21",
+      "sent_at": "2026-10-21T11:12:36+00:00"
+    },
+    {
+      "id": "doi:10.1103/bdrw-y6tl",
+      "title": "Intrinsic defects and $4d/5d$ transition metal defects in ${\\mathrm{Cr}}_{2}{\\mathrm{O}}_{3}$: Pathways for enhancing the Néel temperature",
+      "doi": "10.1103/bdrw-y6tl",
+      "venue": "Physical Review Materials",
+      "published": "2026-10-19",
+      "brief_date": "2026-10-21",
+      "sent_at": "2026-10-21T11:12:36+00:00"
+    },
+    {
+      "id": "doi:10.1103/tkl7-ynwy",
+      "title": "Structural dynamics in the organic conductor $κ\\text{−}{(\\mathrm{BETS})}_{2}\\mathrm{Mn}{[\\mathrm{N}{(\\mathrm{CN})}_{2}]}_{3}$",
+      "doi": "10.1103/tkl7-ynwy",
+      "venue": "Physical Review Materials",
+      "published": "2026-10-20",
+      "brief_date": "2026-10-21",
+      "sent_at": "2026-10-21T11:12:36+00:00"
+    },
+    {
+      "id": "doi:10.1103/bjx1-dp34",
+      "title": "Defect control via Cu enrichment enhances multifunctional properties in the polar semiconductor ${\\mathrm{Cu}}_{1+x}{\\mathrm{Mn}}_{1−y}{\\mathrm{SiTe}}_{3}$",
+      "doi": "10.1103/bjx1-dp34",
+      "venue": "Physical Review Materials",
+      "published": "2026-10-20",
+      "brief_date": "2026-10-21",
+      "sent_at": "2026-10-21T11:12:36+00:00"
+    },
+    {
+      "id": "doi:10.1103/sffm-3s75",
+      "title": "Strain induced magnetic order and magnetic anisotropy transitions in epitaxial $\\mathrm{SrM}{\\mathrm{n}}_{0.3}{\\mathrm{Ir}}_{0.7}{\\mathrm{O}}_{3}$ films",
+      "doi": "10.1103/sffm-3s75",
+      "venue": "Physical Review Materials",
+      "published": "2026-10-19",
+      "brief_date": "2026-10-21",
+      "sent_at": "2026-10-21T11:12:36+00:00"
+    },
+    {
+      "id": "doi:10.1103/jlhg-yy14",
+      "title": "Supercurrent-controlled magnon transport via suppression of the superconducting gap",
+      "doi": "10.1103/jlhg-yy14",
+      "venue": "Physical Review Applied",
+      "published": "2026-10-20",
+      "brief_date": "2026-10-21",
+      "sent_at": "2026-10-21T11:12:36+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41567-026-03443-9",
+      "title": "Superconductivity and ferroelectric orbital magnetism in semimetallic rhombohedral hexalayer graphene",
+      "doi": "10.1038/s41567-026-03443-9",
+      "venue": "Nature Physics",
+      "published": "2026-10-21",
+      "brief_date": "2026-10-21",
+      "sent_at": "2026-10-21T11:12:36+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41565-026-02309-8",
+      "title": "Stacking-specific two-dimensional In 2 Se 3 for ferroelectric homojunctions",
+      "doi": "10.1038/s41565-026-02309-8",
+      "venue": "Nature Nanotechnology",
+      "published": "2026-10-20",
+      "brief_date": "2026-10-21",
+      "sent_at": "2026-10-21T11:12:36+00:00"
+    },
+    {
+      "id": "doi:10.1103/rl7s-xyzt",
+      "title": "Observation of pronounced spin-phonon coupling in spin-driven ferroelectrics ${\\mathrm{Mn}}_{4}{X}_{2}{\\mathrm{O}}_{9}$ ($X$ = Nb, Ta)",
+      "doi": "10.1103/rl7s-xyzt",
+      "venue": "Physical Review B",
+      "published": "2026-10-19",
+      "brief_date": "2026-10-21",
+      "sent_at": "2026-10-21T11:12:36+00:00"
+    },
+    {
+      "id": "doi:10.1088/0256-307x/43/12/120702",
+      "title": "Switchable Auxetic Piezoelectricity in Rhombohedral Relaxor Ferroelectrics",
+      "doi": "10.1088/0256-307x/43/12/120702",
+      "venue": "Chinese Physics Letters",
+      "published": "2026-10-20",
+      "brief_date": "2026-10-21",
+      "sent_at": "2026-10-21T11:12:36+00:00"
+    },
+    {
+      "id": "doi:10.1021/acs.nanolett.6c03549",
+      "title": "Curvature-Controlled Polar–Dislocation Coupling in Freestanding Ferroelectric Oxide Heterostructures",
+      "doi": "10.1021/acs.nanolett.6c03549",
+      "venue": "Nano Letters",
+      "published": "2026-10-20",
+      "brief_date": "2026-10-21",
+      "sent_at": "2026-10-21T11:12:36+00:00"
     }
   ]
 }

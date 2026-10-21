@@ -53,6 +53,12 @@
       "kind": "daily",
       "provider": "SMTP",
       "at_utc": "2026-10-20T11:00:47+00:00"
+    },
+    {
+      "date": "2026-10-21",
+      "kind": "daily",
+      "provider": "SMTP",
+      "at_utc": "2026-10-21T11:12:36+00:00"
     }
   ]
 }
