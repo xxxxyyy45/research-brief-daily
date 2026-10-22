@@ -729,6 +729,78 @@
       "published": "2026-10-20",
       "brief_date": "2026-10-21",
       "sent_at": "2026-10-21T11:12:36+00:00"
+    },
+    {
+      "id": "doi:10.1103/4mcl-jtty",
+      "title": "Electrical injection and control of vector spin flow in altermagnets",
+      "doi": "10.1103/4mcl-jtty",
+      "venue": "Physical Review Research",
+      "published": "2026-10-21",
+      "brief_date": "2026-10-22",
+      "sent_at": "2026-10-22T11:12:44+00:00"
+    },
+    {
+      "id": "doi:10.1021/acs.nanolett.6c03208",
+      "title": "Ultrafast Mimic of Spin Hall Effect in Altermagnets",
+      "doi": "10.1021/acs.nanolett.6c03208",
+      "venue": "Nano Letters",
+      "published": "2026-10-22",
+      "brief_date": "2026-10-22",
+      "sent_at": "2026-10-22T11:12:44+00:00"
+    },
+    {
+      "id": "doi:10.1103/6789-9w6m",
+      "title": "Selective Strain Tuning of Nonequilibrium Multiferroic Dynamics in BiFeO 3",
+      "doi": "10.1103/6789-9w6m",
+      "venue": "Physical Review Letters",
+      "published": "2026-10-21",
+      "brief_date": "2026-10-22",
+      "sent_at": "2026-10-22T11:12:44+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41563-026-02778-1",
+      "title": "Zero-field spin-wave networks with integrated non-volatile memory",
+      "doi": "10.1038/s41563-026-02778-1",
+      "venue": "Nature Materials",
+      "published": "2026-10-22",
+      "brief_date": "2026-10-22",
+      "sent_at": "2026-10-22T11:12:44+00:00"
+    },
+    {
+      "id": "doi:10.1103/8q5b-3xcn",
+      "title": "Topological magnon frequency combs",
+      "doi": "10.1103/8q5b-3xcn",
+      "venue": "Physical Review Applied",
+      "published": "2026-10-21",
+      "brief_date": "2026-10-22",
+      "sent_at": "2026-10-22T11:12:44+00:00"
+    },
+    {
+      "id": "doi:10.1021/acs.nanolett.6c04307",
+      "title": "Unidirectional Magnetoresistance Driven by Nonequilibrium Antiferromagnetic Magnons",
+      "doi": "10.1021/acs.nanolett.6c04307",
+      "venue": "Nano Letters",
+      "published": "2026-10-21",
+      "brief_date": "2026-10-22",
+      "sent_at": "2026-10-22T11:12:44+00:00"
+    },
+    {
+      "id": "doi:10.1002/adma.75391",
+      "title": "Optically Tunable Chiral Magnetic States and Exchange Engineering via Charge‐Transfer Excitation in a van der Waals Antiferromagnet CrPS <sub>4</sub>",
+      "doi": "10.1002/adma.75391",
+      "venue": "Advanced Materials",
+      "published": "2026-10-22",
+      "brief_date": "2026-10-22",
+      "sent_at": "2026-10-22T11:12:44+00:00"
+    },
+    {
+      "id": "doi:10.1002/adma.75144",
+      "title": "Sub‐nm <sup>2</sup> Ferroelectric Domains via Charged 180° Walls in ZrO <sub>2</sub>",
+      "doi": "10.1002/adma.75144",
+      "venue": "Advanced Materials",
+      "published": "2026-10-21",
+      "brief_date": "2026-10-22",
+      "sent_at": "2026-10-22T11:12:44+00:00"
     }
   ]
 }
