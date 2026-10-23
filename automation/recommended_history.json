@@ -801,6 +801,114 @@
       "published": "2026-10-21",
       "brief_date": "2026-10-22",
       "sent_at": "2026-10-22T11:12:44+00:00"
+    },
+    {
+      "id": "doi:10.1103/9vy6-cs4t",
+      "title": "Topologically protected surface altermagnetism on antiferromagnets",
+      "doi": "10.1103/9vy6-cs4t",
+      "venue": "Physical Review Letters",
+      "published": "2026-10-22",
+      "brief_date": "2026-10-23",
+      "sent_at": "2026-10-23T11:02:59+00:00"
+    },
+    {
+      "id": "doi:10.1103/f3fm-bgzz",
+      "title": "Finite-momentum superconductivity with singlet-triplet mixing in an altermagnetic metal: A pairing instability analysis",
+      "doi": "10.1103/f3fm-bgzz",
+      "venue": "Physical Review B",
+      "published": "2026-10-22",
+      "brief_date": "2026-10-23",
+      "sent_at": "2026-10-23T11:02:59+00:00"
+    },
+    {
+      "id": "doi:10.1103/6327-7256",
+      "title": "Altermagnetism in Folded Iron Chain Systems",
+      "doi": "10.1103/6327-7256",
+      "venue": "Physical Review Letters",
+      "published": "2026-10-22",
+      "brief_date": "2026-10-23",
+      "sent_at": "2026-10-23T11:02:59+00:00"
+    },
+    {
+      "id": "doi:10.1103/38sm-tbwf",
+      "title": "Correlation-driven metal-insulator transition in a $d$-wave altermagnet",
+      "doi": "10.1103/38sm-tbwf",
+      "venue": "Physical Review B",
+      "published": "2026-10-21",
+      "brief_date": "2026-10-23",
+      "sent_at": "2026-10-23T11:02:59+00:00"
+    },
+    {
+      "id": "doi:10.1103/85ds-xp39",
+      "title": "Microscopic origin of the intrinsic anomalous Hall and spin Hall effects in ferrimagnetic ${\\mathrm{GdCo}}_{5}$",
+      "doi": "10.1103/85ds-xp39",
+      "venue": "Physical Review Materials",
+      "published": "2026-10-22",
+      "brief_date": "2026-10-23",
+      "sent_at": "2026-10-23T11:02:59+00:00"
+    },
+    {
+      "id": "doi:10.1103/gf5b-4ny4",
+      "title": "Modulating antiferromagnetic domains and interfacial exchange coupling in epitaxial NiO(001) films by Pt underlayer insertion",
+      "doi": "10.1103/gf5b-4ny4",
+      "venue": "Physical Review Materials",
+      "published": "2026-10-22",
+      "brief_date": "2026-10-23",
+      "sent_at": "2026-10-23T11:02:59+00:00"
+    },
+    {
+      "id": "doi:10.1103/gd1k-s125",
+      "title": "Chiral skyrmionic superconductivity from doping a Chern Ferromagnet",
+      "doi": "10.1103/gd1k-s125",
+      "venue": "Physical Review Letters",
+      "published": "2026-10-22",
+      "brief_date": "2026-10-23",
+      "sent_at": "2026-10-23T11:02:59+00:00"
+    },
+    {
+      "id": "doi:10.1103/hgvh-s6h5",
+      "title": "Bulk-Mediated Reflection of Chirality-Protected Surface Spin Waves",
+      "doi": "10.1103/hgvh-s6h5",
+      "venue": "Physical Review Letters",
+      "published": "2026-10-21",
+      "brief_date": "2026-10-23",
+      "sent_at": "2026-10-23T11:02:59+00:00"
+    },
+    {
+      "id": "doi:10.1103/yktz-f1hv",
+      "title": "Stress-induced ferroelectricity in hafnia core-shell nanoparticles",
+      "doi": "10.1103/yktz-f1hv",
+      "venue": "Physical Review Applied",
+      "published": "2026-10-22",
+      "brief_date": "2026-10-23",
+      "sent_at": "2026-10-23T11:02:59+00:00"
+    },
+    {
+      "id": "doi:10.1103/5l14-qxxt",
+      "title": "Modulated antiferroelectric smectic phases with orthogonal and tilted structures",
+      "doi": "10.1103/5l14-qxxt",
+      "venue": "Physical Review Research",
+      "published": "2026-10-22",
+      "brief_date": "2026-10-23",
+      "sent_at": "2026-10-23T11:02:59+00:00"
+    },
+    {
+      "id": "doi:10.1002/adma.75469",
+      "title": "Aluminum Scandium Nitride (AlScN) for Advanced Devices: Physical Mechanisms and Emerging Applications",
+      "doi": "10.1002/adma.75469",
+      "venue": "Advanced Materials",
+      "published": "2026-10-22",
+      "brief_date": "2026-10-23",
+      "sent_at": "2026-10-23T11:02:59+00:00"
+    },
+    {
+      "id": "title:anomalouspolarchainsinhalideperovskites",
+      "title": "Anomalous polar chains in halide perovskites",
+      "doi": "",
+      "venue": "arXiv",
+      "published": "2026-10-22",
+      "brief_date": "2026-10-23",
+      "sent_at": "2026-10-23T11:02:59+00:00"
     }
   ]
 }
