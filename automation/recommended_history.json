@@ -954,6 +954,42 @@
       "published": "2026-10-23",
       "brief_date": "2026-10-24",
       "sent_at": "2026-10-24T10:19:59+00:00"
+    },
+    {
+      "id": "doi:10.1103/zgw5-99k2",
+      "title": "Propagation and localization of spin excitations at altermagnetic domain walls",
+      "doi": "10.1103/zgw5-99k2",
+      "venue": "Physical Review B",
+      "published": "2026-10-23",
+      "brief_date": "2026-10-25",
+      "sent_at": "2026-10-25T10:45:13+00:00"
+    },
+    {
+      "id": "doi:10.1103/wkx4-mr24",
+      "title": "Slave-rotor theory of correlated altermagnets on the Lieb lattice",
+      "doi": "10.1103/wkx4-mr24",
+      "venue": "Physical Review B",
+      "published": "2026-10-23",
+      "brief_date": "2026-10-25",
+      "sent_at": "2026-10-25T10:45:13+00:00"
+    },
+    {
+      "id": "doi:10.1103/gtyg-hhld",
+      "title": "Electron-doping-induced multiferroicity in a one-dimensional ${\\mathrm{NbI}}_{3}$ chain",
+      "doi": "10.1103/gtyg-hhld",
+      "venue": "Physical Review B",
+      "published": "2026-10-23",
+      "brief_date": "2026-10-25",
+      "sent_at": "2026-10-25T10:45:13+00:00"
+    },
+    {
+      "id": "doi:10.1103/tq6k-wy73",
+      "title": "Magnetic order, magnons, and crystal fields in van der Waals CeSiI",
+      "doi": "10.1103/tq6k-wy73",
+      "venue": "Physical Review Letters",
+      "published": "2026-10-23",
+      "brief_date": "2026-10-25",
+      "sent_at": "2026-10-25T10:45:13+00:00"
     }
   ]
 }
