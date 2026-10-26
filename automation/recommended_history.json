@@ -990,6 +990,24 @@
       "published": "2026-10-23",
       "brief_date": "2026-10-25",
       "sent_at": "2026-10-25T10:45:13+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41567-026-03495-x",
+      "title": "A simple twist to altermagnetism",
+      "doi": "10.1038/s41567-026-03495-x",
+      "venue": "Nature Physics",
+      "published": "2026-10-26",
+      "brief_date": "2026-10-26",
+      "sent_at": "2026-10-26T12:18:33+00:00"
+    },
+    {
+      "id": "doi:10.1021/acsnano.6c10644",
+      "title": "Emergent Higher-Order Optical Nonlinearity in Self-Assembled Polar Supertextures",
+      "doi": "10.1021/acsnano.6c10644",
+      "venue": "ACS Nano",
+      "published": "2026-10-26",
+      "brief_date": "2026-10-26",
+      "sent_at": "2026-10-26T12:18:33+00:00"
     }
   ]
 }
