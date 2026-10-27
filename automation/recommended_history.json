@@ -1008,6 +1008,87 @@
       "published": "2026-10-26",
       "brief_date": "2026-10-26",
       "sent_at": "2026-10-26T12:18:33+00:00"
+    },
+    {
+      "id": "title:collinearandcoplanaraltermagnetisminapenrosequasicrystal",
+      "title": "Collinear and Coplanar Altermagnetism in a Penrose Quasicrystal",
+      "doi": "",
+      "venue": "arXiv",
+      "published": "2026-10-26",
+      "brief_date": "2026-10-27",
+      "sent_at": "2026-10-27T11:38:54+00:00"
+    },
+    {
+      "id": "doi:10.1103/3t9l-lclf",
+      "title": "Enhancement of anomalous Nernst effect by intensifying interface carrier scattering in Co/Si multilayer film",
+      "doi": "10.1103/3t9l-lclf",
+      "venue": "Physical Review Materials",
+      "published": "2026-10-26",
+      "brief_date": "2026-10-27",
+      "sent_at": "2026-10-27T11:38:54+00:00"
+    },
+    {
+      "id": "doi:10.1103/bbm7-w3np",
+      "title": "Complex field-induced magnetic phases and anisotropic magnetotransport in off-stoichiometric ${\\mathrm{CeCuBi}}_{2}$",
+      "doi": "10.1103/bbm7-w3np",
+      "venue": "Physical Review Materials",
+      "published": "2026-10-26",
+      "brief_date": "2026-10-27",
+      "sent_at": "2026-10-27T11:38:54+00:00"
+    },
+    {
+      "id": "doi:10.1103/gxr7-xtsr",
+      "title": "Point-gap topology of damped magnon excitations in skyrmion strings",
+      "doi": "10.1103/gxr7-xtsr",
+      "venue": "Physical Review B",
+      "published": "2026-10-26",
+      "brief_date": "2026-10-27",
+      "sent_at": "2026-10-27T11:38:54+00:00"
+    },
+    {
+      "id": "doi:10.1103/7bgl-6lpb",
+      "title": "$Ab$ initio spinor Kadanoff-Baym approach to nonequilibrium electron, phonon, and magnon dynamics in itinerant ferromagnets",
+      "doi": "10.1103/7bgl-6lpb",
+      "venue": "Physical Review B",
+      "published": "2026-10-26",
+      "brief_date": "2026-10-27",
+      "sent_at": "2026-10-27T11:38:54+00:00"
+    },
+    {
+      "id": "doi:10.1103/thmz-53f2",
+      "title": "Magnetic microscopy of skyrmions in magnetic thin films with chiral overlayers",
+      "doi": "10.1103/thmz-53f2",
+      "venue": "Physical Review Applied",
+      "published": "2026-10-26",
+      "brief_date": "2026-10-27",
+      "sent_at": "2026-10-27T11:38:54+00:00"
+    },
+    {
+      "id": "title:zeemanfieldinducedthreespininteractionsandrelativisticcouplingtothescalarspinchirality",
+      "title": "Zeeman-field-induced three-spin interactions and relativistic coupling to the scalar spin chirality",
+      "doi": "",
+      "venue": "arXiv",
+      "published": "2026-10-26",
+      "brief_date": "2026-10-27",
+      "sent_at": "2026-10-27T11:38:54+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41467-026-78928-5",
+      "title": "Synthesis-by-design of ferroelectric Dion–Jacobson two-dimensional hybrid organic–inorganic perovskites",
+      "doi": "10.1038/s41467-026-78928-5",
+      "venue": "Nature Communications",
+      "published": "2026-10-27",
+      "brief_date": "2026-10-27",
+      "sent_at": "2026-10-27T11:38:54+00:00"
+    },
+    {
+      "id": "doi:10.1021/acsnano.6c11877",
+      "title": "Dopant Engineered Y-Doped Hafnia-Zirconia Nanolaminates with 0.26 nm Equivalent Oxide Thickness for Dynamic Random Access Memory Capacitors",
+      "doi": "10.1021/acsnano.6c11877",
+      "venue": "ACS Nano",
+      "published": "2026-10-27",
+      "brief_date": "2026-10-27",
+      "sent_at": "2026-10-27T11:38:54+00:00"
     }
   ]
 }
