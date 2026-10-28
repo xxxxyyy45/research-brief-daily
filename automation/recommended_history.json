@@ -1089,6 +1089,60 @@
       "published": "2026-10-27",
       "brief_date": "2026-10-27",
       "sent_at": "2026-10-27T11:38:54+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41563-026-02786-1",
+      "title": "Altermagnetic signatures and topological textures in ultrathin multiferroic BiFeO 3",
+      "doi": "10.1038/s41563-026-02786-1",
+      "venue": "Nature Materials",
+      "published": "2026-10-28",
+      "brief_date": "2026-10-28",
+      "sent_at": "2026-10-28T12:09:18+00:00"
+    },
+    {
+      "id": "title:unconventionalsocactivatedaltermagneticspinsplittingandhalfanglelockingofspintransport",
+      "title": "Unconventional SOC-activated Altermagnetic Spin Splitting and Half-Angle Locking of Spin Transport",
+      "doi": "",
+      "venue": "arXiv",
+      "published": "2026-10-27",
+      "brief_date": "2026-10-28",
+      "sent_at": "2026-10-28T12:09:18+00:00"
+    },
+    {
+      "id": "doi:10.1103/q5bn-lhw6",
+      "title": "Metastable polar order and phase competition in Carpy-Galy ${\\mathrm{LaTaO}}_{4}$",
+      "doi": "10.1103/q5bn-lhw6",
+      "venue": "Physical Review Materials",
+      "published": "2026-10-27",
+      "brief_date": "2026-10-28",
+      "sent_at": "2026-10-28T12:09:18+00:00"
+    },
+    {
+      "id": "doi:10.1103/ddym-vv6q",
+      "title": "Anomalous Hall transport in a robust premartensite phase transforming ${\\mathrm{Ni}}_{49}{\\mathrm{Mn}}_{34}{\\mathrm{In}}_{16.2}{\\mathrm{Al}}_{0.8}$ magnetic shape memory alloy",
+      "doi": "10.1103/ddym-vv6q",
+      "venue": "Physical Review Materials",
+      "published": "2026-10-27",
+      "brief_date": "2026-10-28",
+      "sent_at": "2026-10-28T12:09:18+00:00"
+    },
+    {
+      "id": "doi:10.1103/wk6v-1x5s",
+      "title": "Ultrasensitive strain modulation of terahertz magnons at a magnetic phase transition",
+      "doi": "10.1103/wk6v-1x5s",
+      "venue": "Physical Review Letters",
+      "published": "2026-10-26",
+      "brief_date": "2026-10-28",
+      "sent_at": "2026-10-28T12:09:18+00:00"
+    },
+    {
+      "id": "doi:10.1103/cprf-rwsn",
+      "title": "Observation of gapped Dirac magnons in a Co bilayer grown on Ru(0001)",
+      "doi": "10.1103/cprf-rwsn",
+      "venue": "Physical Review B",
+      "published": "2026-10-27",
+      "brief_date": "2026-10-28",
+      "sent_at": "2026-10-28T12:09:18+00:00"
     }
   ]
 }
