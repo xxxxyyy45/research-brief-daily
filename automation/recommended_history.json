@@ -1224,6 +1224,87 @@
       "published": "2026-10-28",
       "brief_date": "2026-10-29",
       "sent_at": "2026-10-29T12:20:05+00:00"
+    },
+    {
+      "id": "doi:10.1103/f873-q422",
+      "title": "Altermagnetic band geometry and the antiferromagnetic thermal boundary in a coupled fermion-Ising model",
+      "doi": "10.1103/f873-q422",
+      "venue": "Physical Review B",
+      "published": "2026-10-29",
+      "brief_date": "2026-10-30",
+      "sent_at": "2026-10-30T12:13:48+00:00"
+    },
+    {
+      "id": "doi:10.1126/science.adv3196",
+      "title": "Chiral altermagnon in MnTe",
+      "doi": "10.1126/science.adv3196",
+      "venue": "Science",
+      "published": "2026-10-29",
+      "brief_date": "2026-10-30",
+      "sent_at": "2026-10-30T12:13:48+00:00"
+    },
+    {
+      "id": "doi:10.1126/science.aec2602",
+      "title": "Altermagnetism revealed by polarized neutrons in MnF2",
+      "doi": "10.1126/science.aec2602",
+      "venue": "Science",
+      "published": "2026-10-29",
+      "brief_date": "2026-10-30",
+      "sent_at": "2026-10-30T12:13:48+00:00"
+    },
+    {
+      "id": "title:lightinducedchiralaltermagnetsfromconventionalantiferromagnets",
+      "title": "Light-induced chiral altermagnets from conventional antiferromagnets",
+      "doi": "",
+      "venue": "arXiv",
+      "published": "2026-10-29",
+      "brief_date": "2026-10-30",
+      "sent_at": "2026-10-30T12:13:48+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41467-026-78306-1",
+      "title": "Observation of quantized charge accumulation in a quantum anomalous Hall system",
+      "doi": "10.1038/s41467-026-78306-1",
+      "venue": "Nature Communications",
+      "published": "2026-10-30",
+      "brief_date": "2026-10-30",
+      "sent_at": "2026-10-30T12:13:48+00:00"
+    },
+    {
+      "id": "title:variationalwavefunctionsforidealanyongassuperfluidandskyrmionhallcrystal",
+      "title": "Variational wavefunctions for ideal anyon gas: superfluid and skyrmion Hall crystal",
+      "doi": "",
+      "venue": "arXiv",
+      "published": "2026-10-29",
+      "brief_date": "2026-10-30",
+      "sent_at": "2026-10-30T12:13:48+00:00"
+    },
+    {
+      "id": "title:spinorbitcouplingresponsetheorywithintheorientedspinspacegroupframework",
+      "title": "Spin-Orbit Coupling Response Theory within the Oriented Spin Space Group Framework",
+      "doi": "",
+      "venue": "arXiv",
+      "published": "2026-10-29",
+      "brief_date": "2026-10-30",
+      "sent_at": "2026-10-30T12:13:48+00:00"
+    },
+    {
+      "id": "doi:10.1103/3wc2-9yj8",
+      "title": "Curvature-controlled spin-wave localization and soft-mode instabilities in magnetic nanotube multilayers",
+      "doi": "10.1103/3wc2-9yj8",
+      "venue": "Physical Review B",
+      "published": "2026-10-29",
+      "brief_date": "2026-10-30",
+      "sent_at": "2026-10-30T12:13:48+00:00"
+    },
+    {
+      "id": "doi:10.1103/136n-hykb",
+      "title": "Landau theory applied to antiferroelectric ordering in ferroelectric nematic liquid crystals",
+      "doi": "10.1103/136n-hykb",
+      "venue": "Physical Review Research",
+      "published": "2026-10-28",
+      "brief_date": "2026-10-30",
+      "sent_at": "2026-10-30T12:13:48+00:00"
     }
   ]
 }
