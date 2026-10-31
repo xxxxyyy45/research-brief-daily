@@ -1305,6 +1305,33 @@
       "published": "2026-10-28",
       "brief_date": "2026-10-30",
       "sent_at": "2026-10-30T12:13:48+00:00"
+    },
+    {
+      "id": "doi:10.1126/sciadv.aeh2170",
+      "title": "Electric field–controlled spin transport in a topological insulator interfaced with a ferroelectric antiferromagnet",
+      "doi": "10.1126/sciadv.aeh2170",
+      "venue": "Science Advances",
+      "published": "2026-10-30",
+      "brief_date": "2026-10-31",
+      "sent_at": "2026-10-31T11:43:25+00:00"
+    },
+    {
+      "id": "doi:10.1103/qtcw-r329",
+      "title": "Nonreciprocal singularities dominated by the dissipative photon-magnon coupling in pseudo-Hermitian systems",
+      "doi": "10.1103/qtcw-r329",
+      "venue": "Physical Review B",
+      "published": "2026-10-30",
+      "brief_date": "2026-10-31",
+      "sent_at": "2026-10-31T11:43:25+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41467-026-78705-4",
+      "title": "Resolving the Kay–Dunn limit and the speed–endurance dilemma in ferroelectric Hf0.5Zr0.5O2 for DRAM-class sub-volt capacitors",
+      "doi": "10.1038/s41467-026-78705-4",
+      "venue": "Nature Communications",
+      "published": "2026-10-29",
+      "brief_date": "2026-10-31",
+      "sent_at": "2026-10-31T11:43:25+00:00"
     }
   ]
 }
