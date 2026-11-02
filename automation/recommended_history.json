@@ -1341,6 +1341,24 @@
       "published": "2026-10-30",
       "brief_date": "2026-11-01",
       "sent_at": "2026-11-01T18:13:40+00:00"
+    },
+    {
+      "id": "doi:10.1103/7dmx-h9h3",
+      "title": "Altermagnetism-induced higher-order topological Dirac semimetals in two-dimensional nonsymmorphic systems",
+      "doi": "10.1103/7dmx-h9h3",
+      "venue": "Physical Review B",
+      "published": "2026-11-02",
+      "brief_date": "2026-11-02",
+      "sent_at": "2026-11-02T14:49:22+00:00"
+    },
+    {
+      "id": "doi:10.1021/acsnano.6c06076",
+      "title": "Photodoping-Driven Lattice Expansion Enables Polarization Enhancement in Sliding Ferroelectric MoS2",
+      "doi": "10.1021/acsnano.6c06076",
+      "venue": "ACS Nano",
+      "published": "2026-11-02",
+      "brief_date": "2026-11-02",
+      "sent_at": "2026-11-02T14:49:22+00:00"
     }
   ]
 }
