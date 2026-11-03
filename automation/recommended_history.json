@@ -1359,6 +1359,114 @@
       "published": "2026-11-02",
       "brief_date": "2026-11-02",
       "sent_at": "2026-11-02T14:49:22+00:00"
+    },
+    {
+      "id": "doi:10.1103/8wt4-df1r",
+      "title": "Angular momentum splitter effect of $d$-wave axial phonons in orbital altermagnets",
+      "doi": "10.1103/8wt4-df1r",
+      "venue": "Physical Review B",
+      "published": "2026-11-02",
+      "brief_date": "2026-11-03",
+      "sent_at": "2026-11-03T13:41:54+00:00"
+    },
+    {
+      "id": "title:pressurecorrelationphasediagramunravelingquantumphasetransitionsinaltermagneticfeoohandrealizationofpiezoanomaloushalleffect",
+      "title": "Pressure-correlation phase diagram unraveling quantum phase transitions in altermagnetic $ε$-FeOOH and realization of piezo-anomalous Hall effect",
+      "doi": "",
+      "venue": "arXiv",
+      "published": "2026-11-02",
+      "brief_date": "2026-11-03",
+      "sent_at": "2026-11-03T13:41:54+00:00"
+    },
+    {
+      "id": "doi:10.1103/rvzx-phch",
+      "title": "Chiral topological superconductivity from quantum anomalous Hall states in ferromagnetic metals",
+      "doi": "10.1103/rvzx-phch",
+      "venue": "Physical Review B",
+      "published": "2026-11-02",
+      "brief_date": "2026-11-03",
+      "sent_at": "2026-11-03T13:41:54+00:00"
+    },
+    {
+      "id": "doi:10.1103/xmz9-1mb4",
+      "title": "Valence-driven structural transformation and phase coexistence in chemically substituted ${\\mathrm{EuPd}}_{2}{\\mathrm{Si}}_{2}$",
+      "doi": "10.1103/xmz9-1mb4",
+      "venue": "Physical Review Materials",
+      "published": "2026-11-02",
+      "brief_date": "2026-11-03",
+      "sent_at": "2026-11-03T13:41:54+00:00"
+    },
+    {
+      "id": "doi:10.1103/ypq2-bjp8",
+      "title": "Spin-orbit-coupled transport and spin-current generation in InBi thin film heterostructures",
+      "doi": "10.1103/ypq2-bjp8",
+      "venue": "Physical Review Materials",
+      "published": "2026-11-02",
+      "brief_date": "2026-11-03",
+      "sent_at": "2026-11-03T13:41:54+00:00"
+    },
+    {
+      "id": "doi:10.1103/xpcs-4726",
+      "title": "Negligible Kitaev interaction in the van der Waals antiferromagnet ${\\mathrm{NiBr}}_{2}$ revealed by neutron spectroscopy",
+      "doi": "10.1103/xpcs-4726",
+      "venue": "Physical Review B",
+      "published": "2026-11-02",
+      "brief_date": "2026-11-03",
+      "sent_at": "2026-11-03T13:41:54+00:00"
+    },
+    {
+      "id": "doi:10.1103/fhbj-ykvn",
+      "title": "Magnon superlattices around skyrmions in frustrated magnets",
+      "doi": "10.1103/fhbj-ykvn",
+      "venue": "Physical Review Research",
+      "published": "2026-11-02",
+      "brief_date": "2026-11-03",
+      "sent_at": "2026-11-03T13:41:54+00:00"
+    },
+    {
+      "id": "doi:10.1103/r4pc-2hrt",
+      "title": "Spectroscopic evidence of competing diagonal spin interactions and spin disproportionation in the bilayer nickelate La 3 Ni 2 O 7",
+      "doi": "10.1103/r4pc-2hrt",
+      "venue": "Physical Review X",
+      "published": "2026-11-02",
+      "brief_date": "2026-11-03",
+      "sent_at": "2026-11-03T13:41:54+00:00"
+    },
+    {
+      "id": "doi:10.1103/5bby-xrw4",
+      "title": "Modification of Damon-Eshbach magnetostatic mode spectra in ferromagnet/paramagnet bilayer",
+      "doi": "10.1103/5bby-xrw4",
+      "venue": "Physical Review B",
+      "published": "2026-11-02",
+      "brief_date": "2026-11-03",
+      "sent_at": "2026-11-03T13:41:54+00:00"
+    },
+    {
+      "id": "doi:10.1103/8m9g-7frl",
+      "title": "Pseudogauge field-driven magnon thermal Hall effect in two-dimensional compensated ferrimagnets",
+      "doi": "10.1103/8m9g-7frl",
+      "venue": "Physical Review B",
+      "published": "2026-11-02",
+      "brief_date": "2026-11-03",
+      "sent_at": "2026-11-03T13:41:54+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41467-026-79253-7",
+      "title": "High-performance annealing-free wurtzite ferroelectric field-effect transistors with ultrathin oxide semiconductors for neuromorphic computing",
+      "doi": "10.1038/s41467-026-79253-7",
+      "venue": "Nature Communications",
+      "published": "2026-11-03",
+      "brief_date": "2026-11-03",
+      "sent_at": "2026-11-03T13:41:54+00:00"
+    },
+    {
+      "id": "doi:10.1103/5kfl-11m1",
+      "title": "Nonlinear Phononic Slidetronics",
+      "doi": "10.1103/5kfl-11m1",
+      "venue": "Physical Review Letters",
+      "published": "2026-11-02",
+      "brief_date": "2026-11-03",
+      "sent_at": "2026-11-03T13:41:54+00:00"
     }
   ]
 }
