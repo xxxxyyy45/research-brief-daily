@@ -1467,6 +1467,60 @@
       "published": "2026-11-02",
       "brief_date": "2026-11-03",
       "sent_at": "2026-11-03T13:41:54+00:00"
+    },
+    {
+      "id": "doi:10.1103/jyns-5br2",
+      "title": "Kinetomagnetism and altermagnetism",
+      "doi": "10.1103/jyns-5br2",
+      "venue": "Physical Review Materials",
+      "published": "2026-11-04",
+      "brief_date": "2026-11-04",
+      "sent_at": "2026-11-04T13:48:59+00:00"
+    },
+    {
+      "id": "doi:10.1103/4bhn-q6sj",
+      "title": "3D integration of a hybrid quantum dot circuit-QED device for fast gate dispersive charge readout and coherent spin-photon coupling",
+      "doi": "10.1103/4bhn-q6sj",
+      "venue": "Physical Review Applied",
+      "published": "2026-11-03",
+      "brief_date": "2026-11-04",
+      "sent_at": "2026-11-04T13:48:59+00:00"
+    },
+    {
+      "id": "doi:10.1103/8mtx-9bv4",
+      "title": "Microsopic theory of spin polarons in Chern ferromagnets",
+      "doi": "10.1103/8mtx-9bv4",
+      "venue": "Physical Review Letters",
+      "published": "2026-11-03",
+      "brief_date": "2026-11-04",
+      "sent_at": "2026-11-04T13:48:59+00:00"
+    },
+    {
+      "id": "doi:10.1103/1dxv-sftv",
+      "title": "Mode coupling and incommensurate instability in a ${\\mathrm{PbZr}}_{0.976}{\\mathrm{Ti}}_{0.024}{\\mathrm{O}}_{3}$ crystal",
+      "doi": "10.1103/1dxv-sftv",
+      "venue": "Physical Review B",
+      "published": "2026-11-03",
+      "brief_date": "2026-11-04",
+      "sent_at": "2026-11-04T13:48:59+00:00"
+    },
+    {
+      "id": "doi:10.1103/d563-g554",
+      "title": "Light-induced and tunable shift currents through structural phase evolution in ferroelectric semiconductors",
+      "doi": "10.1103/d563-g554",
+      "venue": "Physical Review B",
+      "published": "2026-11-03",
+      "brief_date": "2026-11-04",
+      "sent_at": "2026-11-04T13:48:59+00:00"
+    },
+    {
+      "id": "title:ferronpolaritonhalleffectdeflectingopticallyrectifiedpolarizationwithmagneticfields",
+      "title": "Ferron polariton Hall effect: Deflecting optically rectified polarization with magnetic fields",
+      "doi": "",
+      "venue": "arXiv",
+      "published": "2026-11-03",
+      "brief_date": "2026-11-04",
+      "sent_at": "2026-11-04T13:48:59+00:00"
     }
   ]
 }
