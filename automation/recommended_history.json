@@ -1584,6 +1584,96 @@
       "published": "2026-11-05",
       "brief_date": "2026-11-05",
       "sent_at": "2026-11-05T14:03:53+00:00"
+    },
+    {
+      "id": "doi:10.1103/q75s-35k6",
+      "title": "Strong electron correlations and ligand hybridization for altermagnetism",
+      "doi": "10.1103/q75s-35k6",
+      "venue": "Physical Review B",
+      "published": "2026-11-05",
+      "brief_date": "2026-11-06",
+      "sent_at": "2026-11-06T13:51:38+00:00"
+    },
+    {
+      "id": "doi:10.1103/l9tb-zgnm",
+      "title": "Orbital-splitter current in altermagnets",
+      "doi": "10.1103/l9tb-zgnm",
+      "venue": "Physical Review B",
+      "published": "2026-11-05",
+      "brief_date": "2026-11-06",
+      "sent_at": "2026-11-06T13:51:38+00:00"
+    },
+    {
+      "id": "doi:10.1103/8nkd-ksnd",
+      "title": "Third-order intrinsic anomalous Hall effect in altermagnets",
+      "doi": "10.1103/8nkd-ksnd",
+      "venue": "Physical Review B",
+      "published": "2026-11-05",
+      "brief_date": "2026-11-06",
+      "sent_at": "2026-11-06T13:51:38+00:00"
+    },
+    {
+      "id": "doi:10.1103/yyd4-l1vx",
+      "title": "Traveling-wave-mediated remote magnon-magnon coupling",
+      "doi": "10.1103/yyd4-l1vx",
+      "venue": "Physical Review B",
+      "published": "2026-11-05",
+      "brief_date": "2026-11-06",
+      "sent_at": "2026-11-06T13:51:38+00:00"
+    },
+    {
+      "id": "doi:10.1103/b2jq-63z9",
+      "title": "Lifetime of bimerons and antibimerons in two-dimensional magnets",
+      "doi": "10.1103/b2jq-63z9",
+      "venue": "Physical Review B",
+      "published": "2026-11-04",
+      "brief_date": "2026-11-06",
+      "sent_at": "2026-11-06T13:51:38+00:00"
+    },
+    {
+      "id": "doi:10.1021/acs.nanolett.6c00826",
+      "title": "Chirality–Polarity-Regulated Magnetic Vortex Chains for Ternary Logic",
+      "doi": "10.1021/acs.nanolett.6c00826",
+      "venue": "Nano Letters",
+      "published": "2026-11-06",
+      "brief_date": "2026-11-06",
+      "sent_at": "2026-11-06T13:51:38+00:00"
+    },
+    {
+      "id": "doi:10.1002/adma.75675",
+      "title": "Twistsonics: Engineering Acoustic Topological Textures in Moiré Sound Lattices",
+      "doi": "10.1002/adma.75675",
+      "venue": "Advanced Materials",
+      "published": "2026-11-05",
+      "brief_date": "2026-11-06",
+      "sent_at": "2026-11-06T13:51:38+00:00"
+    },
+    {
+      "id": "doi:10.1021/acsnano.6c13795",
+      "title": "Memory Window Improvement in Ferroelectric Thin-Film Transistors with HfZrO2/AlN Bilayers Grown by Atomic Layer Deposition",
+      "doi": "10.1021/acsnano.6c13795",
+      "venue": "ACS Nano",
+      "published": "2026-11-06",
+      "brief_date": "2026-11-06",
+      "sent_at": "2026-11-06T13:51:38+00:00"
+    },
+    {
+      "id": "title:ferroelectriccontrolofmagneticcouplinginacrdimeradsorbedonin2se3",
+      "title": "Ferroelectric control of magnetic coupling in a Cr dimer adsorbed on $α$-In$_2$Se$_3$",
+      "doi": "",
+      "venue": "arXiv",
+      "published": "2026-11-05",
+      "brief_date": "2026-11-06",
+      "sent_at": "2026-11-06T13:51:38+00:00"
+    },
+    {
+      "id": "title:thepolardiscontinuitypictureinnickelatesuperlatticescomparisonoftheinsulatingandmetallicphases",
+      "title": "The polar discontinuity picture in nickelate superlattices: comparison of the insulating and metallic phases",
+      "doi": "",
+      "venue": "arXiv",
+      "published": "2026-11-05",
+      "brief_date": "2026-11-06",
+      "sent_at": "2026-11-06T13:51:38+00:00"
     }
   ]
 }
