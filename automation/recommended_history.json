@@ -1674,6 +1674,96 @@
       "published": "2026-11-05",
       "brief_date": "2026-11-06",
       "sent_at": "2026-11-06T13:51:38+00:00"
+    },
+    {
+      "id": "doi:10.1103/s83n-w474",
+      "title": "Ligand-mediated origin of altermagnetic spin splitting",
+      "doi": "10.1103/s83n-w474",
+      "venue": "Physical Review B",
+      "published": "2026-11-05",
+      "brief_date": "2026-11-07",
+      "sent_at": "2026-11-07T12:29:35+00:00"
+    },
+    {
+      "id": "doi:10.1103/n78v-py2j",
+      "title": "Noise spectroscopy of insulating and itinerant altermagnets",
+      "doi": "10.1103/n78v-py2j",
+      "venue": "Physical Review B",
+      "published": "2026-11-06",
+      "brief_date": "2026-11-07",
+      "sent_at": "2026-11-07T12:29:35+00:00"
+    },
+    {
+      "id": "doi:10.1103/7mm4-xymn",
+      "title": "Spin filtering by electron reflection from surfaces of collinear compensated magnets",
+      "doi": "10.1103/7mm4-xymn",
+      "venue": "Physical Review B",
+      "published": "2026-11-06",
+      "brief_date": "2026-11-07",
+      "sent_at": "2026-11-07T12:29:35+00:00"
+    },
+    {
+      "id": "doi:10.1103/45mp-m9lm",
+      "title": "Polarization-controlled switching of magnetic anisotropy in the rare-earth van der Waals heterostructure ${\\mathrm{EuSn}}_{2}{\\mathrm{Sb}}_{2}/{\\mathrm{In}}_{2}{\\mathrm{Te}}_{3}$",
+      "doi": "10.1103/45mp-m9lm",
+      "venue": "Physical Review Materials",
+      "published": "2026-11-05",
+      "brief_date": "2026-11-07",
+      "sent_at": "2026-11-07T12:29:35+00:00"
+    },
+    {
+      "id": "doi:10.1103/mkhw-ltd2",
+      "title": "Geometry-driven magnetization reversal and spin-wave dynamics in permalloy artificial anti–spin ice lattices",
+      "doi": "10.1103/mkhw-ltd2",
+      "venue": "Physical Review Applied",
+      "published": "2026-11-06",
+      "brief_date": "2026-11-07",
+      "sent_at": "2026-11-07T12:29:35+00:00"
+    },
+    {
+      "id": "doi:10.1103/61pk-p3vr",
+      "title": "Topological magnonic black-white hole crystal",
+      "doi": "10.1103/61pk-p3vr",
+      "venue": "Physical Review Research",
+      "published": "2026-11-06",
+      "brief_date": "2026-11-07",
+      "sent_at": "2026-11-07T12:29:35+00:00"
+    },
+    {
+      "id": "doi:10.1103/xdkq-h9km",
+      "title": "Acoustically driven magnons in CrSBr bilayers",
+      "doi": "10.1103/xdkq-h9km",
+      "venue": "Physical Review Research",
+      "published": "2026-11-06",
+      "brief_date": "2026-11-07",
+      "sent_at": "2026-11-07T12:29:35+00:00"
+    },
+    {
+      "id": "doi:10.1103/qf9t-rsc5",
+      "title": "Intrinsic moiré domains of twisted boron nitride",
+      "doi": "10.1103/qf9t-rsc5",
+      "venue": "Physical Review B",
+      "published": "2026-11-06",
+      "brief_date": "2026-11-07",
+      "sent_at": "2026-11-07T12:29:35+00:00"
+    },
+    {
+      "id": "doi:10.1103/yrwr-nwk1",
+      "title": "Role of spatial defect correlations in reversible polarization switching in ${\\mathrm{BiFeO}}_{3}\\text{−}{\\mathrm{BaTiO}}_{3}$ ceramics",
+      "doi": "10.1103/yrwr-nwk1",
+      "venue": "Physical Review B",
+      "published": "2026-11-06",
+      "brief_date": "2026-11-07",
+      "sent_at": "2026-11-07T12:29:35+00:00"
+    },
+    {
+      "id": "doi:10.1126/sciadv.aeg8175",
+      "title": "Visualizing nanoscopic acoustic mode competition in a van der Waals ferroelectric",
+      "doi": "10.1126/sciadv.aeg8175",
+      "venue": "Science Advances",
+      "published": "2026-11-06",
+      "brief_date": "2026-11-07",
+      "sent_at": "2026-11-07T12:29:35+00:00"
     }
   ]
 }
