@@ -1773,6 +1773,33 @@
       "published": "2026-11-07",
       "brief_date": "2026-11-08",
       "sent_at": "2026-11-08T12:48:43+00:00"
+    },
+    {
+      "id": "doi:10.1103/smd6-vxfy",
+      "title": "Altermagnetism across the BCS-BEC crossover",
+      "doi": "10.1103/smd6-vxfy",
+      "venue": "Physical Review B",
+      "published": "2026-11-09",
+      "brief_date": "2026-11-09",
+      "sent_at": "2026-11-09T15:13:09+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41565-026-02331-w",
+      "title": "Dynamic electrical control of on-chip second-harmonic generation with ferroelectric NbOBr 2",
+      "doi": "10.1038/s41565-026-02331-w",
+      "venue": "Nature Nanotechnology",
+      "published": "2026-11-09",
+      "brief_date": "2026-11-09",
+      "sent_at": "2026-11-09T15:13:09+00:00"
+    },
+    {
+      "id": "doi:10.1002/adma.75543",
+      "title": "Quantum Saturation of the Electro‐Optic Effect",
+      "doi": "10.1002/adma.75543",
+      "venue": "Advanced Materials",
+      "published": "2026-11-08",
+      "brief_date": "2026-11-09",
+      "sent_at": "2026-11-09T15:13:09+00:00"
     }
   ]
 }
