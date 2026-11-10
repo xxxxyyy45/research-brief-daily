@@ -1800,6 +1800,96 @@
       "published": "2026-11-08",
       "brief_date": "2026-11-09",
       "sent_at": "2026-11-09T15:13:09+00:00"
+    },
+    {
+      "id": "doi:10.1103/tvcy-8chj",
+      "title": "Real-space magnetoelectric coupling in the altermagnet ${\\mathrm{MoOBr}}_{3}$: Symmetry analysis and first-principles calculations",
+      "doi": "10.1103/tvcy-8chj",
+      "venue": "Physical Review B",
+      "published": "2026-11-09",
+      "brief_date": "2026-11-10",
+      "sent_at": "2026-11-10T14:23:32+00:00"
+    },
+    {
+      "id": "doi:10.1103/8czs-74vv",
+      "title": "Realistic tight-binding model for ${\\mathrm{V}}_{2}{\\mathrm{Se}}_{2}\\mathrm{O}$-family altermagnets",
+      "doi": "10.1103/8czs-74vv",
+      "venue": "Physical Review Materials",
+      "published": "2026-11-09",
+      "brief_date": "2026-11-10",
+      "sent_at": "2026-11-10T14:23:32+00:00"
+    },
+    {
+      "id": "doi:10.1103/mt31-c8x3",
+      "title": "Electric and magnetic order dependent bulk photovoltaic effect in a multiferroic ${\\mathrm{CuCrP}}_{2}{\\mathrm{S}}_{6}$ monolayer",
+      "doi": "10.1103/mt31-c8x3",
+      "venue": "Physical Review B",
+      "published": "2026-11-09",
+      "brief_date": "2026-11-10",
+      "sent_at": "2026-11-10T14:23:32+00:00"
+    },
+    {
+      "id": "doi:10.1103/mk4v-jn48",
+      "title": "Cation ordering and local structural signatures of hierarchical magnetic frustration in ${\\mathrm{Cr}}_{0.3}{\\mathrm{Fe}}_{0.7}{\\mathrm{VO}}_{4}$",
+      "doi": "10.1103/mk4v-jn48",
+      "venue": "Physical Review Materials",
+      "published": "2026-11-09",
+      "brief_date": "2026-11-10",
+      "sent_at": "2026-11-10T14:23:32+00:00"
+    },
+    {
+      "id": "doi:10.1103/g9k1-kfrf",
+      "title": "Electrical control of spin photocurrent in the magnetoelectric oxide ${\\mathrm{Cr}}_{2}{\\mathrm{O}}_{3}$",
+      "doi": "10.1103/g9k1-kfrf",
+      "venue": "Physical Review B",
+      "published": "2026-11-09",
+      "brief_date": "2026-11-10",
+      "sent_at": "2026-11-10T14:23:32+00:00"
+    },
+    {
+      "id": "doi:10.1103/n3mw-w3zg",
+      "title": "Designing XY and Dzyaloshinskii-Moriya couplings in Majorana Cooper pair boxes",
+      "doi": "10.1103/n3mw-w3zg",
+      "venue": "Physical Review B",
+      "published": "2026-11-09",
+      "brief_date": "2026-11-10",
+      "sent_at": "2026-11-10T14:23:32+00:00"
+    },
+    {
+      "id": "doi:10.1103/brdk-5v73",
+      "title": "Effects of Zr substitution on ferroelectric switching in ${\\mathrm{HfO}}_{2}$",
+      "doi": "10.1103/brdk-5v73",
+      "venue": "Physical Review B",
+      "published": "2026-11-09",
+      "brief_date": "2026-11-10",
+      "sent_at": "2026-11-10T14:23:32+00:00"
+    },
+    {
+      "id": "doi:10.1103/y3v4-chyr",
+      "title": "Tuning charge transport properties and magnetic order in metallic $\\mathrm{EuTi}{\\mathrm{O}}_{3−δ}$",
+      "doi": "10.1103/y3v4-chyr",
+      "venue": "Physical Review B",
+      "published": "2026-11-09",
+      "brief_date": "2026-11-10",
+      "sent_at": "2026-11-10T14:23:32+00:00"
+    },
+    {
+      "id": "doi:10.1021/acs.nanolett.6c02499",
+      "title": "Highly Reliable Sub-2-nm Hafnia Ferroelectric Tunnel Junction via All-Atomic Layer Deposition Growth",
+      "doi": "10.1021/acs.nanolett.6c02499",
+      "venue": "Nano Letters",
+      "published": "2026-11-10",
+      "brief_date": "2026-11-10",
+      "sent_at": "2026-11-10T14:23:32+00:00"
+    },
+    {
+      "id": "doi:10.1002/adma.75650",
+      "title": "Upcycling Piezoelectric Single‐Crystal Debris Into High‐Performance Flexible 0–3 Composites",
+      "doi": "10.1002/adma.75650",
+      "venue": "Advanced Materials",
+      "published": "2026-11-09",
+      "brief_date": "2026-11-10",
+      "sent_at": "2026-11-10T14:23:32+00:00"
     }
   ]
 }
