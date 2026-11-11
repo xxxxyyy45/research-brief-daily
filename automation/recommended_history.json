@@ -1890,6 +1890,114 @@
       "published": "2026-11-09",
       "brief_date": "2026-11-10",
       "sent_at": "2026-11-10T14:23:32+00:00"
+    },
+    {
+      "id": "doi:10.1103/52g1-n617",
+      "title": "Spin current generation controlled by the Néel state in a compensated ferrimagnet",
+      "doi": "10.1103/52g1-n617",
+      "venue": "Physical Review B",
+      "published": "2026-11-10",
+      "brief_date": "2026-11-11",
+      "sent_at": "2026-11-11T13:37:58+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41567-026-03532-9",
+      "title": "Altermagnetism in a new light",
+      "doi": "10.1038/s41567-026-03532-9",
+      "venue": "Nature Physics",
+      "published": "2026-11-11",
+      "brief_date": "2026-11-11",
+      "sent_at": "2026-11-11T13:37:58+00:00"
+    },
+    {
+      "id": "doi:10.1103/vcf8-3hd2",
+      "title": "Extended $s$-wave altermagnets",
+      "doi": "10.1103/vcf8-3hd2",
+      "venue": "Physical Review B",
+      "published": "2026-11-10",
+      "brief_date": "2026-11-11",
+      "sent_at": "2026-11-11T13:37:58+00:00"
+    },
+    {
+      "id": "doi:10.1103/mlrq-mm6h",
+      "title": "Ultrafast cooperative electronic, structural, and magnetic transition in α -MnTe",
+      "doi": "10.1103/mlrq-mm6h",
+      "venue": "Physical Review Letters",
+      "published": "2026-11-10",
+      "brief_date": "2026-11-11",
+      "sent_at": "2026-11-11T13:37:58+00:00"
+    },
+    {
+      "id": "doi:10.1103/pyrg-j1gz",
+      "title": "Predicting the generation of tunable nonreciprocal spin waves mediated by interfacial Dzyaloshinskii-Moriya interaction in magnonic heterostructures",
+      "doi": "10.1103/pyrg-j1gz",
+      "venue": "Physical Review Applied",
+      "published": "2026-11-09",
+      "brief_date": "2026-11-11",
+      "sent_at": "2026-11-11T13:37:58+00:00"
+    },
+    {
+      "id": "doi:10.1103/44yd-vfgk",
+      "title": "Dipole-exchange spin waves and mode hybridization in magnetic nanoparticles",
+      "doi": "10.1103/44yd-vfgk",
+      "venue": "Physical Review B",
+      "published": "2026-11-10",
+      "brief_date": "2026-11-11",
+      "sent_at": "2026-11-11T13:37:58+00:00"
+    },
+    {
+      "id": "doi:10.1103/dm45-x7hy",
+      "title": "Electrical detection of nonlinear spin-wave dynamics driven by multipath four-magnon scattering",
+      "doi": "10.1103/dm45-x7hy",
+      "venue": "Physical Review Applied",
+      "published": "2026-11-10",
+      "brief_date": "2026-11-11",
+      "sent_at": "2026-11-11T13:37:58+00:00"
+    },
+    {
+      "id": "doi:10.1103/2pcp-lz65",
+      "title": "Topological hybridization of plasmons with ferrimagnetic magnons",
+      "doi": "10.1103/2pcp-lz65",
+      "venue": "Physical Review B",
+      "published": "2026-11-10",
+      "brief_date": "2026-11-11",
+      "sent_at": "2026-11-11T13:37:58+00:00"
+    },
+    {
+      "id": "doi:10.1103/zp43-9p3y",
+      "title": "Density-wave order enhances the phonon thermal Hall effect in a trilayer nickelate",
+      "doi": "10.1103/zp43-9p3y",
+      "venue": "Physical Review Letters",
+      "published": "2026-11-09",
+      "brief_date": "2026-11-11",
+      "sent_at": "2026-11-11T13:37:58+00:00"
+    },
+    {
+      "id": "title:goodpracticesformeasuringtheinterfacialdzyaloshinskiimoriyainteractionbybrillouinlightscatteringandmagnetoopticalkerreffect",
+      "title": "Good Practices for Measuring the Interfacial Dzyaloshinskii-Moriya Interaction by Brillouin Light Scattering and Magneto-Optical Kerr Effect",
+      "doi": "",
+      "venue": "arXiv",
+      "published": "2026-11-10",
+      "brief_date": "2026-11-11",
+      "sent_at": "2026-11-11T13:37:58+00:00"
+    },
+    {
+      "id": "doi:10.1103/9w3c-7kcr",
+      "title": "Parity-driven RKKY decoupling and anomalous $1/R$ Dzyaloshinskii-Moriya interaction in odd-parity magnets",
+      "doi": "10.1103/9w3c-7kcr",
+      "venue": "Physical Review B",
+      "published": "2026-11-10",
+      "brief_date": "2026-11-11",
+      "sent_at": "2026-11-11T13:37:58+00:00"
+    },
+    {
+      "id": "doi:10.1103/w2hc-g5j1",
+      "title": "Genuine multipartite entanglement as a probe of many-body localization in disordered spin chains with Dzyaloshinskii-Moriya interactions",
+      "doi": "10.1103/w2hc-g5j1",
+      "venue": "Physical Review B",
+      "published": "2026-11-10",
+      "brief_date": "2026-11-11",
+      "sent_at": "2026-11-11T13:37:58+00:00"
     }
   ]
 }
