@@ -1998,6 +1998,33 @@
       "published": "2026-11-10",
       "brief_date": "2026-11-11",
       "sent_at": "2026-11-11T13:37:58+00:00"
+    },
+    {
+      "id": "doi:10.1103/vyp9-s8zs",
+      "title": "First-principles investigation of small polarons in rhombohedral ${\\mathrm{NaNbO}}_{3}$",
+      "doi": "10.1103/vyp9-s8zs",
+      "venue": "Physical Review Materials",
+      "published": "2026-11-12",
+      "brief_date": "2026-11-12",
+      "sent_at": "2026-11-12T14:42:27+00:00"
+    },
+    {
+      "id": "doi:10.1021/acsnano.6c16642",
+      "title": "Polarization-Controlled Dual-Mode Switching in van der Waals α-In2Se3 Memristors for Multitime-Scale Reservoir Computing",
+      "doi": "10.1021/acsnano.6c16642",
+      "venue": "ACS Nano",
+      "published": "2026-11-12",
+      "brief_date": "2026-11-12",
+      "sent_at": "2026-11-12T14:42:27+00:00"
+    },
+    {
+      "id": "doi:10.1021/acsnano.6c09613",
+      "title": "Ferroelectric-Empowered van der Waals Spectrometer with Record-High Sensitivity and Ultralow Noise",
+      "doi": "10.1021/acsnano.6c09613",
+      "venue": "ACS Nano",
+      "published": "2026-11-11",
+      "brief_date": "2026-11-12",
+      "sent_at": "2026-11-12T14:42:27+00:00"
     }
   ]
 }
