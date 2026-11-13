@@ -2025,6 +2025,78 @@
       "published": "2026-11-11",
       "brief_date": "2026-11-12",
       "sent_at": "2026-11-12T14:42:27+00:00"
+    },
+    {
+      "id": "doi:10.1103/tpbk-pzlj",
+      "title": "Emergent skyrmion Hall effect in $d$-wave altermagnets at finite temperature",
+      "doi": "10.1103/tpbk-pzlj",
+      "venue": "Physical Review B",
+      "published": "2026-11-12",
+      "brief_date": "2026-11-13",
+      "sent_at": "2026-11-13T14:01:50+00:00"
+    },
+    {
+      "id": "doi:10.1103/918g-3q7f",
+      "title": "Thermomagnonic torques in insulating altermagnets",
+      "doi": "10.1103/918g-3q7f",
+      "venue": "Physical Review B",
+      "published": "2026-11-12",
+      "brief_date": "2026-11-13",
+      "sent_at": "2026-11-13T14:01:50+00:00"
+    },
+    {
+      "id": "doi:10.1103/7zl4-35wd",
+      "title": "Exotic superconducting states in altermagnets",
+      "doi": "10.1103/7zl4-35wd",
+      "venue": "Physical Review B",
+      "published": "2026-11-12",
+      "brief_date": "2026-11-13",
+      "sent_at": "2026-11-13T14:01:50+00:00"
+    },
+    {
+      "id": "doi:10.1103/vzrj-5gc6",
+      "title": "Altermagnetism in vanadium oxychalcogenides: A case for altermagnetism in CsV 2 Te 2 O",
+      "doi": "10.1103/vzrj-5gc6",
+      "venue": "Physical Review B",
+      "published": "2026-11-12",
+      "brief_date": "2026-11-13",
+      "sent_at": "2026-11-13T14:01:50+00:00"
+    },
+    {
+      "id": "doi:10.1103/t9yg-8xcy",
+      "title": "Chiral magnetism and quantum anomalous Hall effect in a low-energy Kondo model on the triangular lattice",
+      "doi": "10.1103/t9yg-8xcy",
+      "venue": "Physical Review B",
+      "published": "2026-11-12",
+      "brief_date": "2026-11-13",
+      "sent_at": "2026-11-13T14:01:50+00:00"
+    },
+    {
+      "id": "doi:10.1103/2fzs-dzg4",
+      "title": "Manipulating spin-polarized current through ferroelectrically switchable magnetic coupling",
+      "doi": "10.1103/2fzs-dzg4",
+      "venue": "Physical Review B",
+      "published": "2026-11-12",
+      "brief_date": "2026-11-13",
+      "sent_at": "2026-11-13T14:01:50+00:00"
+    },
+    {
+      "id": "doi:10.1021/acsnano.6c17755",
+      "title": "Accelerating the Discovery of Synthesizable 2D Hybrid Double Perovskites through Human–LLM Collaborative Descriptor Engineering",
+      "doi": "10.1021/acsnano.6c17755",
+      "venue": "ACS Nano",
+      "published": "2026-11-12",
+      "brief_date": "2026-11-13",
+      "sent_at": "2026-11-13T14:01:50+00:00"
+    },
+    {
+      "id": "doi:10.1002/adma.75689",
+      "title": "Interfacial Trap and Field Regulation Enables Bias‐Switchable Dual‐Mode Organic Photodetectors for Adaptive Near‐Infrared Detection",
+      "doi": "10.1002/adma.75689",
+      "venue": "Advanced Materials",
+      "published": "2026-11-13",
+      "brief_date": "2026-11-13",
+      "sent_at": "2026-11-13T14:01:50+00:00"
     }
   ]
 }
