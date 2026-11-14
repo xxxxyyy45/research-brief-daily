@@ -2097,6 +2097,87 @@
       "published": "2026-11-13",
       "brief_date": "2026-11-13",
       "sent_at": "2026-11-13T14:01:50+00:00"
+    },
+    {
+      "id": "doi:10.1103/9g6w-622w",
+      "title": "Fully spin-polarized currents in $d$-wave altermagnets via strain engineering",
+      "doi": "10.1103/9g6w-622w",
+      "venue": "Physical Review B",
+      "published": "2026-11-13",
+      "brief_date": "2026-11-14",
+      "sent_at": "2026-11-14T13:00:02+00:00"
+    },
+    {
+      "id": "doi:10.1103/7mrc-tqzl",
+      "title": "Steering and local tunneling signatures of Majorana corner modes in altermagnetic Josephson junctions",
+      "doi": "10.1103/7mrc-tqzl",
+      "venue": "Physical Review B",
+      "published": "2026-11-13",
+      "brief_date": "2026-11-14",
+      "sent_at": "2026-11-14T13:00:02+00:00"
+    },
+    {
+      "id": "doi:10.1103/zhyr-jrf7",
+      "title": "Manipulating anomalous transport via crystal symmetry in two-dimensional altermagnets",
+      "doi": "10.1103/zhyr-jrf7",
+      "venue": "Physical Review B",
+      "published": "2026-11-13",
+      "brief_date": "2026-11-14",
+      "sent_at": "2026-11-14T13:00:02+00:00"
+    },
+    {
+      "id": "doi:10.1103/vhbs-v961",
+      "title": "Site-selective substitutions and magnetic structures in ${(\\mathrm{Fe},\\mathrm{Co})}_{2}(\\mathrm{P},\\mathrm{Si})$ compounds probed by x-ray linear dichroism and neutron diffraction",
+      "doi": "10.1103/vhbs-v961",
+      "venue": "Physical Review Materials",
+      "published": "2026-11-13",
+      "brief_date": "2026-11-14",
+      "sent_at": "2026-11-14T13:00:02+00:00"
+    },
+    {
+      "id": "doi:10.1002/adma.75707",
+      "title": "Spin Transport in Epitaxial Magnon Junctions With Pt‐Nanoparticle‐Decorated Y <sub>3</sub> Fe <sub>5</sub> O <sub>12</sub> /Gd <sub>3</sub> Ga <sub>5</sub> O <sub>12</sub> /Y <sub>3</sub> Fe <sub>5</sub> O <sub>12</sub>",
+      "doi": "10.1002/adma.75707",
+      "venue": "Advanced Materials",
+      "published": "2026-11-13",
+      "brief_date": "2026-11-14",
+      "sent_at": "2026-11-14T13:00:02+00:00"
+    },
+    {
+      "id": "doi:10.1103/65kw-1h1l",
+      "title": "Moiré strain skyrmions in sliding twisted bilayers",
+      "doi": "10.1103/65kw-1h1l",
+      "venue": "Physical Review B",
+      "published": "2026-11-13",
+      "brief_date": "2026-11-14",
+      "sent_at": "2026-11-14T13:00:02+00:00"
+    },
+    {
+      "id": "doi:10.1002/adma.75644",
+      "title": "Three‐Dimensional Topological Spin Textures Above Room Temperature in NdCo <sub>3</sub> Magnet",
+      "doi": "10.1002/adma.75644",
+      "venue": "Advanced Materials",
+      "published": "2026-11-13",
+      "brief_date": "2026-11-14",
+      "sent_at": "2026-11-14T13:00:02+00:00"
+    },
+    {
+      "id": "doi:10.1103/sg8h-35vn",
+      "title": "Orbital weight variation as an effective electronic descriptor linking tribology and ferroelectric switching",
+      "doi": "10.1103/sg8h-35vn",
+      "venue": "Physical Review Letters",
+      "published": "2026-11-12",
+      "brief_date": "2026-11-14",
+      "sent_at": "2026-11-14T13:00:02+00:00"
+    },
+    {
+      "id": "doi:10.1021/acsnano.6c14245",
+      "title": "Ferroelectric Neuromorphic Devices Enable Nonphotosensitive Neurons to Achieve Event-Driven Photosensitive Artificial Neural Interfaces",
+      "doi": "10.1021/acsnano.6c14245",
+      "venue": "ACS Nano",
+      "published": "2026-11-13",
+      "brief_date": "2026-11-14",
+      "sent_at": "2026-11-14T13:00:02+00:00"
     }
   ]
 }
