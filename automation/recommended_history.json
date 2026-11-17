@@ -2187,6 +2187,69 @@
       "published": "2026-11-15",
       "brief_date": "2026-11-15",
       "sent_at": "2026-11-15T19:29:12+00:00"
+    },
+    {
+      "id": "doi:10.1088/0256-307x/43/12/120708",
+      "title": "Multiple moiré polarization textures in twisted trilayers",
+      "doi": "10.1088/0256-307x/43/12/120708",
+      "venue": "Chinese Physics Letters",
+      "published": "2026-11-17",
+      "brief_date": "2026-11-17",
+      "sent_at": "2026-11-17T15:34:33+00:00"
+    },
+    {
+      "id": "doi:10.1103/4ryq-fcpm",
+      "title": "Intercalation-induced robust multiferroicity in bilayer ${\\mathrm{CrS}}_{2}$",
+      "doi": "10.1103/4ryq-fcpm",
+      "venue": "Physical Review B",
+      "published": "2026-11-16",
+      "brief_date": "2026-11-17",
+      "sent_at": "2026-11-17T15:34:33+00:00"
+    },
+    {
+      "id": "doi:10.1103/k8rg-69rv",
+      "title": "Magnon band structure and topology in a periodically deformed kagome lattice with Dzyaloshinskii-Moriya interaction",
+      "doi": "10.1103/k8rg-69rv",
+      "venue": "Physical Review B",
+      "published": "2026-11-16",
+      "brief_date": "2026-11-17",
+      "sent_at": "2026-11-17T15:34:33+00:00"
+    },
+    {
+      "id": "doi:10.1103/2tlc-bvw4",
+      "title": "Measuring spectral functions of doped magnets with Rydberg tweezer arrays",
+      "doi": "10.1103/2tlc-bvw4",
+      "venue": "Physical Review X",
+      "published": "2026-11-16",
+      "brief_date": "2026-11-17",
+      "sent_at": "2026-11-17T15:34:33+00:00"
+    },
+    {
+      "id": "doi:10.1103/d5tj-p9ms",
+      "title": "Asymmetric mode hybridization in Floquet cavity magnonics",
+      "doi": "10.1103/d5tj-p9ms",
+      "venue": "Physical Review Applied",
+      "published": "2026-11-16",
+      "brief_date": "2026-11-17",
+      "sent_at": "2026-11-17T15:34:33+00:00"
+    },
+    {
+      "id": "doi:10.1103/dbd5-2s48",
+      "title": "Magnon-dislon hybridization in magnetic insulators",
+      "doi": "10.1103/dbd5-2s48",
+      "venue": "Physical Review B",
+      "published": "2026-11-16",
+      "brief_date": "2026-11-17",
+      "sent_at": "2026-11-17T15:34:33+00:00"
+    },
+    {
+      "id": "doi:10.1002/admi.70730",
+      "title": "Mechanism of Polarization Switching in IWO‐Based Ferroelectric Devices Under the Influence of Trap States",
+      "doi": "10.1002/admi.70730",
+      "venue": "Advanced Materials Interfaces",
+      "published": "2026-11-16",
+      "brief_date": "2026-11-17",
+      "sent_at": "2026-11-17T15:34:33+00:00"
     }
   ]
 }
