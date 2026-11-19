@@ -2295,6 +2295,78 @@
       "published": "2026-11-17",
       "brief_date": "2026-11-18",
       "sent_at": "2026-11-18T15:14:27+00:00"
+    },
+    {
+      "id": "doi:10.1103/hwnp-1vdr",
+      "title": "Competing magnetic correlations in the square-lattice Hubbard model with spin-dependent nearest-neighbor and next-nearest-neighbor hopping",
+      "doi": "10.1103/hwnp-1vdr",
+      "venue": "Physical Review B",
+      "published": "2026-11-18",
+      "brief_date": "2026-11-19",
+      "sent_at": "2026-11-19T15:18:53+00:00"
+    },
+    {
+      "id": "doi:10.1103/qlj4-nstp",
+      "title": "Valley polarization, piezomagnetism, and noncollinear spin current in altermagnetic Janus ${\\mathrm{Co}}_{2}\\mathrm{OSe}$ monolayer",
+      "doi": "10.1103/qlj4-nstp",
+      "venue": "Physical Review B",
+      "published": "2026-11-18",
+      "brief_date": "2026-11-19",
+      "sent_at": "2026-11-19T15:18:53+00:00"
+    },
+    {
+      "id": "doi:10.1103/h7kn-g9h2",
+      "title": "Resonant-impurity scanning tunneling spectroscopy in altermagnets: Dual Fano resonance and Landau quantization induced nodal spin contrast",
+      "doi": "10.1103/h7kn-g9h2",
+      "venue": "Physical Review B",
+      "published": "2026-11-18",
+      "brief_date": "2026-11-19",
+      "sent_at": "2026-11-19T15:18:53+00:00"
+    },
+    {
+      "id": "doi:10.1103/ql9f-hxhr",
+      "title": "Evidence for hidden altermagnetism in Cs 1 − δ V 2 Te 2 O",
+      "doi": "10.1103/ql9f-hxhr",
+      "venue": "Physical Review Letters",
+      "published": "2026-11-18",
+      "brief_date": "2026-11-19",
+      "sent_at": "2026-11-19T15:18:53+00:00"
+    },
+    {
+      "id": "doi:10.1103/hmsm-c2ch",
+      "title": "Measuring the structure of defect clusters in $(1\\text{−}x){\\mathrm{BiFeO}}_{3}\\text{−}(x){\\mathrm{BaTiO}}_{3}$ alloys with advanced electron microscopy and ptychography",
+      "doi": "10.1103/hmsm-c2ch",
+      "venue": "Physical Review Materials",
+      "published": "2026-11-18",
+      "brief_date": "2026-11-19",
+      "sent_at": "2026-11-19T15:18:53+00:00"
+    },
+    {
+      "id": "doi:10.1103/yfv7-h21m",
+      "title": "Two-dimensional twisted ferromagnetic domain wall as a spin-wave diffraction grating",
+      "doi": "10.1103/yfv7-h21m",
+      "venue": "Physical Review B",
+      "published": "2026-11-18",
+      "brief_date": "2026-11-19",
+      "sent_at": "2026-11-19T15:18:53+00:00"
+    },
+    {
+      "id": "doi:10.1103/tz8m-d1pq",
+      "title": "Flexomagnetic control of chiral skyrmions and charged domain walls in bent monolayer ${\\mathrm{VSi}}_{2}{\\mathrm{N}}_{4}$",
+      "doi": "10.1103/tz8m-d1pq",
+      "venue": "Physical Review B",
+      "published": "2026-11-18",
+      "brief_date": "2026-11-19",
+      "sent_at": "2026-11-19T15:18:53+00:00"
+    },
+    {
+      "id": "doi:10.1021/acs.nanolett.6c04997",
+      "title": "All-Dielectric Near-Field Stokes Skyrmions from Spin-Redirection Berry Phase",
+      "doi": "10.1021/acs.nanolett.6c04997",
+      "venue": "Nano Letters",
+      "published": "2026-11-19",
+      "brief_date": "2026-11-19",
+      "sent_at": "2026-11-19T15:18:53+00:00"
     }
   ]
 }
