@@ -2367,6 +2367,69 @@
       "published": "2026-11-19",
       "brief_date": "2026-11-19",
       "sent_at": "2026-11-19T15:18:53+00:00"
+    },
+    {
+      "id": "doi:10.1103/plh8-5ss1",
+      "title": "Electrically switchable spintronics in a multiferroic altermagnet",
+      "doi": "10.1103/plh8-5ss1",
+      "venue": "Physical Review Letters",
+      "published": "2026-11-18",
+      "brief_date": "2026-11-20",
+      "sent_at": "2026-11-20T14:56:46+00:00"
+    },
+    {
+      "id": "doi:10.1103/6lrn-4py1",
+      "title": "X-ray spectroscopic responses to magnetoelastic symmetry breaking in altermagnets",
+      "doi": "10.1103/6lrn-4py1",
+      "venue": "Physical Review B",
+      "published": "2026-11-19",
+      "brief_date": "2026-11-20",
+      "sent_at": "2026-11-20T14:56:46+00:00"
+    },
+    {
+      "id": "doi:10.1103/4rp7-s37c",
+      "title": "Chiral quantum batteries",
+      "doi": "10.1103/4rp7-s37c",
+      "venue": "Physical Review Applied",
+      "published": "2026-11-18",
+      "brief_date": "2026-11-20",
+      "sent_at": "2026-11-20T14:56:46+00:00"
+    },
+    {
+      "id": "doi:10.1103/wgm7-36tn",
+      "title": "Skyrmion phase control by magnetic dipole-dipole interaction and electric field in centrosymmetric materials",
+      "doi": "10.1103/wgm7-36tn",
+      "venue": "Physical Review B",
+      "published": "2026-11-19",
+      "brief_date": "2026-11-20",
+      "sent_at": "2026-11-20T14:56:46+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41467-026-79481-x",
+      "title": "Large electrocaloric effects in unannealed multilayer capacitors of partially ordered lead scandium tantalate",
+      "doi": "10.1038/s41467-026-79481-x",
+      "venue": "Nature Communications",
+      "published": "2026-11-19",
+      "brief_date": "2026-11-20",
+      "sent_at": "2026-11-20T14:56:46+00:00"
+    },
+    {
+      "id": "doi:10.1103/vg1s-h4x6",
+      "title": "Asymmetric and Scalable Electronic Hysteresis Induced by Ratchet-like Charge Injections in van der Waals Heterostructures",
+      "doi": "10.1103/vg1s-h4x6",
+      "venue": "Physical Review Letters",
+      "published": "2026-11-19",
+      "brief_date": "2026-11-20",
+      "sent_at": "2026-11-20T14:56:46+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41467-026-79434-4",
+      "title": "Dual-functional-unit modulation enables superior energy storage in high-entropy relaxor ferroelectrics",
+      "doi": "10.1038/s41467-026-79434-4",
+      "venue": "Nature Communications",
+      "published": "2026-11-18",
+      "brief_date": "2026-11-20",
+      "sent_at": "2026-11-20T14:56:46+00:00"
     }
   ]
 }
