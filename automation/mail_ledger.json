@@ -257,6 +257,12 @@
       "kind": "daily",
       "provider": "SMTP",
       "at_utc": "2026-11-20T14:56:46+00:00"
+    },
+    {
+      "date": "2026-11-21",
+      "kind": "daily",
+      "provider": "SMTP",
+      "at_utc": "2026-11-21T14:17:44+00:00"
     }
   ]
 }

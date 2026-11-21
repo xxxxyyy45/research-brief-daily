@@ -2430,6 +2430,69 @@
       "published": "2026-11-18",
       "brief_date": "2026-11-20",
       "sent_at": "2026-11-20T14:56:46+00:00"
+    },
+    {
+      "id": "doi:10.1103/m3hc-w3kt",
+      "title": "Tunable phonon-driven magnon spin currents in altermagnets",
+      "doi": "10.1103/m3hc-w3kt",
+      "venue": "Physical Review B",
+      "published": "2026-11-20",
+      "brief_date": "2026-11-21",
+      "sent_at": "2026-11-21T14:17:44+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41467-026-79435-3",
+      "title": "Hybrid-parity sliding multiferroics",
+      "doi": "10.1038/s41467-026-79435-3",
+      "venue": "Nature Communications",
+      "published": "2026-11-19",
+      "brief_date": "2026-11-21",
+      "sent_at": "2026-11-21T14:17:44+00:00"
+    },
+    {
+      "id": "doi:10.1103/1fcf-72wv",
+      "title": "Coupled magnetic and lattice excitations in multiferroic ${\\mathrm{Ba}}_{3}{\\mathrm{HoRu}}_{2}{\\mathrm{O}}_{9}$: Insights from neutron scattering, Raman spectroscopy, and machine-learned phonon calculations",
+      "doi": "10.1103/1fcf-72wv",
+      "venue": "Physical Review B",
+      "published": "2026-11-20",
+      "brief_date": "2026-11-21",
+      "sent_at": "2026-11-21T14:17:44+00:00"
+    },
+    {
+      "id": "doi:10.1103/t5f8-gkyq",
+      "title": "Spin-wave modes in ferromagnetic films near a spin reorientation transition",
+      "doi": "10.1103/t5f8-gkyq",
+      "venue": "Physical Review B",
+      "published": "2026-11-20",
+      "brief_date": "2026-11-21",
+      "sent_at": "2026-11-21T14:17:44+00:00"
+    },
+    {
+      "id": "doi:10.1103/w2r2-92jr",
+      "title": "Nonlinear frequency shift and bistability of magnon polarons",
+      "doi": "10.1103/w2r2-92jr",
+      "venue": "Physical Review B",
+      "published": "2026-11-20",
+      "brief_date": "2026-11-21",
+      "sent_at": "2026-11-21T14:17:44+00:00"
+    },
+    {
+      "id": "doi:10.1103/xbql-8dcc",
+      "title": "Micrometer-sized magnonic three-port rectilinear circulator",
+      "doi": "10.1103/xbql-8dcc",
+      "venue": "Physical Review Applied",
+      "published": "2026-11-19",
+      "brief_date": "2026-11-21",
+      "sent_at": "2026-11-21T14:17:44+00:00"
+    },
+    {
+      "id": "doi:10.1126/sciadv.aeg1429",
+      "title": "An all-magnonic neuron with tunable fading memory",
+      "doi": "10.1126/sciadv.aeg1429",
+      "venue": "Science Advances",
+      "published": "2026-11-20",
+      "brief_date": "2026-11-21",
+      "sent_at": "2026-11-21T14:17:44+00:00"
     }
   ]
 }
