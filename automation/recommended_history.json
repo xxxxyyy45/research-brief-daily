@@ -2493,6 +2493,33 @@
       "published": "2026-11-20",
       "brief_date": "2026-11-21",
       "sent_at": "2026-11-21T14:17:44+00:00"
+    },
+    {
+      "id": "doi:10.1103/jndg-x9tw",
+      "title": "Visualizing spin-polarization of an altermagnet KV 2 Se 2 O via spin-selective tunneling",
+      "doi": "10.1103/jndg-x9tw",
+      "venue": "Physical Review X",
+      "published": "2026-11-20",
+      "brief_date": "2026-11-22",
+      "sent_at": "2026-11-22T14:04:15+00:00"
+    },
+    {
+      "id": "doi:10.1103/jy7x-ksz8",
+      "title": "Magnonic butterflies in noncommensurate one-dimensional van der Waals magnetic helices",
+      "doi": "10.1103/jy7x-ksz8",
+      "venue": "Physical Review B",
+      "published": "2026-11-20",
+      "brief_date": "2026-11-22",
+      "sent_at": "2026-11-22T14:04:15+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41467-026-79721-0",
+      "title": "Wafer-scale thin-film PZT photonic integrated circuits enabling multi-terabit optical transmission",
+      "doi": "10.1038/s41467-026-79721-0",
+      "venue": "Nature Communications",
+      "published": "2026-11-20",
+      "brief_date": "2026-11-22",
+      "sent_at": "2026-11-22T14:04:15+00:00"
     }
   ]
 }
