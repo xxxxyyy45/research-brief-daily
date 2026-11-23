@@ -2520,6 +2520,24 @@
       "published": "2026-11-20",
       "brief_date": "2026-11-22",
       "sent_at": "2026-11-22T14:04:15+00:00"
+    },
+    {
+      "id": "doi:10.1103/d83k-923y",
+      "title": "Giant Room-Temperature Magnetoelectric Coupling Effect in Nanocomposite Thin Films via Strain-Sensitive Polarization",
+      "doi": "10.1103/d83k-923y",
+      "venue": "Physical Review Letters",
+      "published": "2026-11-23",
+      "brief_date": "2026-11-23",
+      "sent_at": "2026-11-23T18:33:40+00:00"
+    },
+    {
+      "id": "doi:10.1002/adma.75814",
+      "title": "A Spin‐Crossover Neutral‐Site Perovskite Ferroelectric",
+      "doi": "10.1002/adma.75814",
+      "venue": "Advanced Materials",
+      "published": "2026-11-22",
+      "brief_date": "2026-11-23",
+      "sent_at": "2026-11-23T18:33:40+00:00"
     }
   ]
 }
