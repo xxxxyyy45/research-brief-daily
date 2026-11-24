@@ -2538,6 +2538,60 @@
       "published": "2026-11-22",
       "brief_date": "2026-11-23",
       "sent_at": "2026-11-23T18:33:40+00:00"
+    },
+    {
+      "id": "doi:10.1103/t64v-c4w1",
+      "title": "Orbital-competition mediated interlayer coupling in bilayer altermagnetic ${\\mathrm{V}}_{2}{\\mathrm{S}}_{2}\\mathrm{O}$",
+      "doi": "10.1103/t64v-c4w1",
+      "venue": "Physical Review B",
+      "published": "2026-11-23",
+      "brief_date": "2026-11-24",
+      "sent_at": "2026-11-24T17:01:01+00:00"
+    },
+    {
+      "id": "doi:10.1103/q5z7-h12g",
+      "title": "Spin Josephson supercurrent in altermagnetic superconducting nanowire junctions",
+      "doi": "10.1103/q5z7-h12g",
+      "venue": "Physical Review B",
+      "published": "2026-11-23",
+      "brief_date": "2026-11-24",
+      "sent_at": "2026-11-24T17:01:01+00:00"
+    },
+    {
+      "id": "doi:10.1103/33qy-5q5c",
+      "title": "Ferroelectrically switchable anomalous valley Hall effect in multiferroic fully compensated ferrimagnets",
+      "doi": "10.1103/33qy-5q5c",
+      "venue": "Physical Review B",
+      "published": "2026-11-23",
+      "brief_date": "2026-11-24",
+      "sent_at": "2026-11-24T17:01:01+00:00"
+    },
+    {
+      "id": "doi:10.1021/acs.nanolett.6c03818",
+      "title": "Multichannel Three-Magnon Splitting in a BiYIG Nanodisk",
+      "doi": "10.1021/acs.nanolett.6c03818",
+      "venue": "Nano Letters",
+      "published": "2026-11-24",
+      "brief_date": "2026-11-24",
+      "sent_at": "2026-11-24T17:01:01+00:00"
+    },
+    {
+      "id": "doi:10.1002/adma.75833",
+      "title": "Chiral Bobbers in the Room‐Temperature Magnet Co <sub>8</sub> Zn <sub>10</sub> Mn <sub>2</sub>",
+      "doi": "10.1002/adma.75833",
+      "venue": "Advanced Materials",
+      "published": "2026-11-24",
+      "brief_date": "2026-11-24",
+      "sent_at": "2026-11-24T17:01:01+00:00"
+    },
+    {
+      "id": "doi:10.1103/tbnm-y62x",
+      "title": "Heterogeneous ferroelectricity and conductivity of oxidized ${\\mathrm{BaTiO}}_{3}$ crystals: Role of nanoscale phase segregation in the surface region",
+      "doi": "10.1103/tbnm-y62x",
+      "venue": "Physical Review B",
+      "published": "2026-11-23",
+      "brief_date": "2026-11-24",
+      "sent_at": "2026-11-24T17:01:01+00:00"
     }
   ]
 }
