@@ -2592,6 +2592,87 @@
       "published": "2026-11-23",
       "brief_date": "2026-11-24",
       "sent_at": "2026-11-24T17:01:01+00:00"
+    },
+    {
+      "id": "doi:10.1103/3c12-qwgl",
+      "title": "Higher-order topology induced by altermagnetism in quasicrystals",
+      "doi": "10.1103/3c12-qwgl",
+      "venue": "Physical Review B",
+      "published": "2026-11-25",
+      "brief_date": "2026-11-25",
+      "sent_at": "2026-11-25T16:50:54+00:00"
+    },
+    {
+      "id": "doi:10.1103/y1yx-t941",
+      "title": "Deterministic electrical switching in altermagnets via surface antisymmetry groups",
+      "doi": "10.1103/y1yx-t941",
+      "venue": "Physical Review B",
+      "published": "2026-11-24",
+      "brief_date": "2026-11-25",
+      "sent_at": "2026-11-25T16:50:54+00:00"
+    },
+    {
+      "id": "doi:10.1088/0256-307x/44/1/010703",
+      "title": "Mirror Chern Insulators in Two-Dimensional Altermagnets",
+      "doi": "10.1088/0256-307x/44/1/010703",
+      "venue": "Chinese Physics Letters",
+      "published": "2026-11-25",
+      "brief_date": "2026-11-25",
+      "sent_at": "2026-11-25T16:50:54+00:00"
+    },
+    {
+      "id": "doi:10.1103/s94v-jrg3",
+      "title": "Photonic antiferromagnetic quantum anomalous Hall effect with switchable chirality of edge states",
+      "doi": "10.1103/s94v-jrg3",
+      "venue": "Physical Review Letters",
+      "published": "2026-11-24",
+      "brief_date": "2026-11-25",
+      "sent_at": "2026-11-25T16:50:54+00:00"
+    },
+    {
+      "id": "doi:10.1021/acs.nanolett.6c04361",
+      "title": "Interface-Modified Second-Harmonic Generation under Electric and Magnetic Fields in WSe2/CuCrP2S6 Heterostructures",
+      "doi": "10.1021/acs.nanolett.6c04361",
+      "venue": "Nano Letters",
+      "published": "2026-11-25",
+      "brief_date": "2026-11-25",
+      "sent_at": "2026-11-25T16:50:54+00:00"
+    },
+    {
+      "id": "doi:10.1103/zmky-pr37",
+      "title": "High-Purity Entanglement Mediated by Magnons Despite Weak Coupling",
+      "doi": "10.1103/zmky-pr37",
+      "venue": "Physical Review Letters",
+      "published": "2026-11-24",
+      "brief_date": "2026-11-25",
+      "sent_at": "2026-11-25T16:50:54+00:00"
+    },
+    {
+      "id": "doi:10.1103/251l-jnp3",
+      "title": "Dynamical instability in a Floquet-driven dissipative system",
+      "doi": "10.1103/251l-jnp3",
+      "venue": "Physical Review B",
+      "published": "2026-11-24",
+      "brief_date": "2026-11-25",
+      "sent_at": "2026-11-25T16:50:54+00:00"
+    },
+    {
+      "id": "doi:10.1103/3hnm-2f1h",
+      "title": "Design rules for stable skyrmions in the two-dimensional Janus monolayers ${\\mathit{MXY}}_{3}$ ($M=\\mathrm{Fe}$, Co, Mn; $X=\\mathrm{Si}$, Ge, Sn, Pb; $Y=\\mathrm{N}$, P)",
+      "doi": "10.1103/3hnm-2f1h",
+      "venue": "Physical Review B",
+      "published": "2026-11-24",
+      "brief_date": "2026-11-25",
+      "sent_at": "2026-11-25T16:50:54+00:00"
+    },
+    {
+      "id": "doi:10.1002/adma.75838",
+      "title": "An Electrically Gated Solid‐State Thermal Transistor for Energy‐Efficient Thermal Management",
+      "doi": "10.1002/adma.75838",
+      "venue": "Advanced Materials",
+      "published": "2026-11-24",
+      "brief_date": "2026-11-25",
+      "sent_at": "2026-11-25T16:50:54+00:00"
     }
   ]
 }
