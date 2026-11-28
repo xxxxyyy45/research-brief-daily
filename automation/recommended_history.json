@@ -2772,6 +2772,33 @@
       "published": "2026-11-26",
       "brief_date": "2026-11-27",
       "sent_at": "2026-11-27T16:10:25+00:00"
+    },
+    {
+      "id": "doi:10.1002/adma.75804",
+      "title": "AI‐Based Generative Search for New Altermagnetic Candidates With Large Spin Splitting",
+      "doi": "10.1002/adma.75804",
+      "venue": "Advanced Materials",
+      "published": "2026-11-27",
+      "brief_date": "2026-11-28",
+      "sent_at": "2026-11-28T15:04:36+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41535-026-00957-6",
+      "title": "Residual orbital magnetization governs the anomalous Hall effect in altermagnets",
+      "doi": "10.1038/s41535-026-00957-6",
+      "venue": "npj Quantum Materials",
+      "published": "2026-11-27",
+      "brief_date": "2026-11-28",
+      "sent_at": "2026-11-28T15:04:36+00:00"
+    },
+    {
+      "id": "doi:10.1126/sciadv.aej3973",
+      "title": "Observation and control of spontaneous magnon emission from spin ensembles in 2D hexagonal boron nitride",
+      "doi": "10.1126/sciadv.aej3973",
+      "venue": "Science Advances",
+      "published": "2026-11-27",
+      "brief_date": "2026-11-28",
+      "sent_at": "2026-11-28T15:04:36+00:00"
     }
   ]
 }
